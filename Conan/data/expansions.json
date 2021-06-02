@@ -107,12 +107,12 @@
             "title": {
                 "fr": "Conan le Conquérant",
                 "en": "Conan the Conqueror",
-                "it": "TODO_TRANSLATE"
+                "it": "Conan il Conquistatore"
             },
             "short": {
                 "fr": "Boîte Conquérant",
                 "en": "Conqueror box",
-                "it": "TODO_TRANSLATE"
+                "it": "Conqueror box"
             }
         }, {
             "id": "conqueror-sg",
@@ -120,12 +120,12 @@
             "title": {
                 "fr": "Récompenses \"Conquérant\" (2020)",
                 "en": "\"Conqueror\" Stretch goals (2020)",
-                "it": "TODO_TRANSLATE"
+                "it": "Ricompense \"Conqueror\" (2020)"
             },
             "short": {
                 "fr": "Réc. Conqueror",
                 "en": "Conqueror SG",
-                "it": "TODO_TRANSLATE"
+                "it": "Conqueror Strech goals"
             }
         },
 
@@ -174,12 +174,12 @@
             "title": {
                 "fr": "Royaume des Chimères",
                 "en": "The Shadow Kingdom",
-                "it": "TODO_TRANSLATE"
+                "it": "Il Regno Fantasma"
             },
             "short": {
                 "fr": "Royaume Chimères",
                 "en": "Shadow Kingdom",
-                "it": "TODO_TRANSLATE"
+                "it": "Regno Fantasma"
             }
         }, {
             "id": "red-brotherhood",
@@ -187,12 +187,12 @@
             "title": {
                 "fr": "Contes de la Fraternité Rouge",
                 "en": "Tales of the Red Brotherhood",
-                "it": "TODO_TRANSLATE"
+                "it": "Racconti della Fratellanza Rossa"
             },
             "short": {
                 "fr": "Fraternité Rouge",
                 "en": "Red Brotherhood",
-                "it": "TODO_TRANSLATE"
+                "it": "Fratellanza Rossa"
             }
         },
 
@@ -455,12 +455,12 @@
             "title": {
                 "fr": "Chambres Secrètes",
                 "en": "Hidden Chambers",
-                "it": "TODO_TRANSLATE"
+                "it": "Stanze Segrete"
             },
             "short": {
                 "fr": "Chambres Secrètes",
                 "en": "Hidden Chambers",
-                "it": "TODO_TRANSLATE"
+                "it": "Stanze Segrete"
             }
         }, {
             "id": "monolith-site",

@@ -2425,7 +2425,7 @@
             "title": {
                 "fr": "Ancre",
                 "en": "Anchor",
-                "it": "TODO_TRANSLATE"
+                "it": "Ancora"
             },
             "encumbrance": "5",
             "skills": {"0": "attack/circular_strike", "1": "none"},
@@ -2448,7 +2448,7 @@
             "title": {
                 "fr": "Hache Atlante",
                 "en": "Atlantean Axe",
-                "it": "TODO_TRANSLATE"
+                "it": "Ascia Atlantidea"
             },
             "encumbrance": "3",
 
@@ -2469,7 +2469,7 @@
             "title": {
                 "fr": "Coutelas",
                 "en": "Cutlass",
-                "it": "TODO_TRANSLATE"
+                "it": "Coltellaccio"
             },
             "encumbrance": "1",
 
@@ -2490,7 +2490,7 @@
             "title": {
                 "fr": "épée Akbitanienne",
                 "en": "Akbitanan Sword",
-                "it": "TODO_TRANSLATE"
+                "it": "Spada Akbitana"
             },
             "encumbrance": "2",
 
@@ -2511,7 +2511,7 @@
             "title": {
                 "fr": "Bâton Khitien",
                 "en": "Khitan Staff",
-                "it": "TODO_TRANSLATE"
+                "it": "Bastone Khitano"
             },
             "encumbrance": "3",
             "skills": {"0": "attack/reach", "1": "none"},
@@ -2534,7 +2534,7 @@
             "title": {
                 "fr": "Filet",
                 "en": "Net",
-                "it": "TODO_TRANSLATE"
+                "it": "Rete"
             },
             "encumbrance": "1",
             "skills": {"0": "movement/web_projection", "1": "none"},
@@ -2549,7 +2549,7 @@
             "text": {
                 "fr": "Le Héros peut dépenser 1 {gem_blue} en attaque à distance pour effectuer une Projection de toile.",
                 "en": "A Hero may place 1 {gem_blue} in their Ranged Attack space to make a web projection attack.",
-                "it": "TODO_TRANSLATE"
+                "it": "Gli Eroi possono spendere una (1) {gem_blue} in Attacco a Distanza per usare l'abilità Intrappolare."
             },
 
             "image": "data/equipments/img/net.png",
@@ -2563,7 +2563,7 @@
             "title": {
                 "fr": "Lance Lourde",
                 "en": "Heavy Spear",
-                "it": "TODO_TRANSLATE"
+                "it": "Azza"
             },
             "encumbrance": "3",
 
@@ -2584,7 +2584,7 @@
             "title": {
                 "fr": "Carte",
                 "en": "Map",
-                "it": "TODO_TRANSLATE"
+                "it": "Mappa"
             },
             "encumbrance": "0",
 
@@ -2605,7 +2605,7 @@
             "title": {
                 "fr": "Bouclier à Pointe",
                 "en": "Spiked Shield",
-                "it": "TODO_TRANSLATE"
+                "it": "Scudo Chiodato"
             },
             "encumbrance": "2",
             "skills": {"0": "attack/counterattack", "1": "none"},
@@ -2628,7 +2628,7 @@
             "title": {
                 "fr": "Chaîne Zamorienne",
                 "en": "Zamorian Chain",
-                "it": "TODO_TRANSLATE"
+                "it": "Catena Zamoriana"
             },
             "encumbrance": "1",
             "skills": {"0": "attack/constriction", "1": "none"},
@@ -2651,7 +2651,7 @@
             "title": {
                 "fr": "Poignard Némédien",
                 "en": "Nemedian Poniard",
-                "it": "TODO_TRANSLATE"
+                "it": "Pugnale Nemediano"
             },
             "encumbrance": "1",
             "skills": {"0": "attack/ambidextrous", "1": "none"},
@@ -2674,7 +2674,7 @@
             "title": {
                 "fr": "Masse à Pointes",
                 "en": "Spiked Mace",
-                "it": "TODO_TRANSLATE"
+                "it": "Mazzafrusto"
             },
             "encumbrance": "2",
 
@@ -2695,7 +2695,7 @@
             "title": {
                 "fr": "Ceste",
                 "en": "Caestus",
-                "it": "TODO_TRANSLATE"
+                "it": "Caestus"
             },
             "encumbrance": "0",
 
@@ -2708,7 +2708,7 @@
             "text": {
                 "fr": "Un Héros portant le Ceste ne subit pas de pénalité s’il est désarmé.",
                 "en": "A Hero wearing the Caestus does not suffer the effects of the unarmed penalty.",
-                "it": "TODO_TRANSLATE"
+                "it": "Un Eroe che indoosa un Caestus non subisce penalità se combatte disarmato."
             },
 
             "image": "data/equipments/img/caestus.png",
@@ -2722,7 +2722,7 @@
             "title": {
                 "fr": "Bracelet de Dagon",
                 "en": "Dagon's Circlet",
-                "it": "TODO_TRANSLATE"
+                "it": "Corona di Dagon"
             },
             "encumbrance": "0",
 
@@ -2735,7 +2735,7 @@
             "text": {
                 "fr": "Augmentez l’indice de surchage de chaque compétence de 1.",
                 "en": "Increase encumbrance limit by 1 for all skills.",
-                "it": "TODO_TRANSLATE"
+                "it": "Aumenta il valore dell'ingombro delle abilità di 1."
             },
 
             "image": "data/equipments/img/dagons_circlet.png",
@@ -2749,7 +2749,7 @@
             "title": {
                 "fr": "Manteau de Gullah",
                 "en": "Mantle of Gullah",
-                "it": "TODO_TRANSLATE"
+                "it": "Mantella di Gullah"
             },
             "encumbrance": "3",
 
@@ -2761,8 +2761,8 @@
 
             "text": {
                 "fr": "Regagnez 1 {gem_blue} supplémentaire lorsque vous êtes en récupération.",
-                "en": "Recover 1 extra {gem_blue} when in cautious stance",
-                "it": "TODO_TRANSLATE"
+                "en": "Recover 1 extra {gem_blue} when in cautious stance.",
+                "it": "Guadagni una (1) {gem_blue} aggiuntiva fin quando sei In Recupero."
             },
 
             "image": "data/equipments/img/mantle_of_gullah.png",
@@ -2776,7 +2776,7 @@
             "title": {
                 "fr": "Cape Stygienne",
                 "en": "Stygian Cloak",
-                "it": "TODO_TRANSLATE"
+                "it": "Mantello Stygiano"
             },
             "encumbrance": "1",
 
@@ -2788,8 +2788,8 @@
 
             "text": {
                 "fr": "Regagnez 1 {gem_blue} supplémentaire lorsque vous êtes actif.",
-                "en": "Recover 1 extra {gem_blue} when in aggressive stance",
-                "it": "TODO_TRANSLATE"
+                "en": "Recover 1 extra {gem_blue} when in aggressive stance.",
+                "it": "Guadagni una (1) {gem_blue} aggiuntiva fin quando sei Attivo."
             },
 
             "image": "data/equipments/img/stygian_cloak.png",
@@ -2803,7 +2803,7 @@
             "title": {
                 "fr": "Outil de Crochetage",
                 "en": "Lockpick",
-                "it": "TODO_TRANSLATE"
+                "it": "Attrezzi da scasso"
             },
             "encumbrance": "1",
 
@@ -2816,7 +2816,7 @@
             "text": {
                 "fr": "Placez 1 {gem_red} sur l’outil de crochetage. Un Héros peut utiliser cette gemme pour crocheter des serrures. Pendant les phases de début et de fin      \ndu tour des Héros, remettez      \nla {gem_red} sur la carte.           ",
                 "en": "Place 1 {gem_red} on the lockpick.\nA hero may use this gem to pick locks. During the start and end phase of the heroes’ turn, move the {gem_red} to the card.",
-                "it": "TODO_TRANSLATE"
+                "it": "Piazza una (1) {gem_red} sugli attrezzi da scasso. Un Eroe può spendere questa gemma per scassinare una serratura. Durante la fase iniziale e la fase finale\n del turno degli Eroi, rimettete\n la {gem_red} sulla carta."
             },
 
             "image": "data/equipments/img/lockpick.png",
@@ -2830,7 +2830,7 @@
             "title": {
                 "fr": "Grande Épée de Conan",
                 "en": "Conan's Great Sword",
-                "it": "TODO_TRANSLATE"
+                "it": "Grande Spada di Conan"
             },
             "encumbrance": "3",
 
