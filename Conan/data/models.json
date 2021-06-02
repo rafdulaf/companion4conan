@@ -1323,6 +1323,55 @@
         },
         
         {
+            "id": "son-of-set",
+            "thumb": "data/models/img/son-of-set_sd.jpg",
+            "images": ["data/models/img/son-of-set_1.jpg", "data/models/img/son-of-set_2.jpg"],
+            "paint": { "name": "Zalex", "link": "https://the-overlord.com/index.php?/profile/106-zalex/" },
+            "type": "monster",
+            "forum": "https://the-overlord.com/index.php?/topic/4217-peinture-python/",
+            "origins": ["conqueror-sg"]
+        },
+        
+        {
+            "id": "scourge-of-set",
+            "thumb": "data/models/img/scourge-of-set_sd.jpg",
+            "images": ["data/models/img/scourge-of-set_1.jpg"],
+            "paint": { "name": "Martin Grandbarbe", "link": "https://www.facebook.com/martin.grandbarbe"},
+            "type": "monster",
+            "forum": "https://the-overlord.com/index.php?/topic/4205-peinture-hydre/",
+            "origins": ["conqueror-sg"]
+        },   
+        
+        {
+            "id": "servant-of-ahriman",
+            "thumb": "data/models/img/servant-of-ahriman_sd.jpg",
+            "images": ["data/models/img/servant-of-ahriman_1.jpg"],
+            "paint": { "name": "Martin Grandbarbe", "link": "https://www.facebook.com/martin.grandbarbe"},
+            "type": "monster",
+            "forum": "https://the-overlord.com/index.php?/topic/3756-peinture-le-fl%C3%A9au/",
+            "origins": ["conqueror-sg"]
+        },   
+        
+        {
+            "id": "winged-ape",
+            "thumb": "data/models/img/winged-ape_sd.jpg",
+            "images": ["data/models/img/winged-ape_1.jpg", "data/models/img/winged-ape_2.jpg"],
+            "paint": { "name": "Epaka", "link": "https://the-overlord.net/index.php?/profile/266-epaka/" },
+            "type": "monster",
+            "forum": "https://the-overlord.net/index.php?/topic/562-neither-man-beast-nor-devil-show-your-winged-ape/",
+            "origins": ["conqueror-sg"]
+        },
+        
+        {
+            "id": "nameless-horror",
+            "thumb": "data/models/img/nameless-horror_sd.jpg",
+            "images": ["data/models/img/nameless-horror_1.jpg", "data/models/img/nameless-horror_2.jpg"],
+            "paint": { "name": "Telgar", "link": "https://the-overlord.com/index.php?/profile/291-telgar/" },
+            "type": "monster",
+            "origins": ["conqueror-sg"]
+        },
+        
+        {
             "id": "winged-ape",
             "thumb": "data/models/img/winged-ape_sd.jpg",
             "images": ["data/models/img/winged-ape_1.jpg", "data/models/img/winged-ape_2.jpg"],
@@ -1341,6 +1390,193 @@
             "forum": "https://the-overlord.com/index.php?/topic/4642-peinture-montrez-moi-vos-civils/",
             "origins": ["corinthia"],
             "count": 15
+        },
+        
+        {
+            "id": "deep-ones",
+            "thumb": "data/models/img/deep-ones_sd.jpg",
+            "images": ["data/models/img/deep-ones_1.jpg", "data/models/img/deep-ones_2.jpg", "data/models/img/deep-ones_3.jpg"],
+            "paint": { "name": "Martin Grandbarbe", "link": "https://www.facebook.com/martin.grandbarbe"},
+            "type": "monster",
+            "origins": ["conqueror"],
+            "count": 5
+        },
+        
+        {
+            "id": "children-of-gullah",
+            "thumb": "data/models/img/children-of-gullah_sd.jpg",
+            "images": ["data/models/img/children-of-gullah_1.jpg"],
+            "paint": null,
+            "type": "animal",
+            "origins": ["conqueror"],
+            "count": 5
+        },
+        
+        {
+            "id": "ballista-pirates",
+            "thumb": "data/models/img/ballista-pirates_sd.jpg",
+            "images": ["data/models/img/ballista-pirates_1.jpg"],
+            "paint": null,
+            "type": "human",
+            "origins": ["conqueror"],
+            "count": 5
+        },
+        
+        {
+            "id": "ghouls",
+            "thumb": "data/models/img/ghouls_sd.jpg",
+            "images": ["data/models/img/ghouls_1.jpg"],
+            "paint": null,
+            "type": "monster",
+            "origins": ["conqueror"],
+            "count": 10
+        },
+                
+        {
+            "id": "pirate-archers",
+            "thumb": "data/models/img/pirate-archers_sd.jpg",
+            "images": ["data/models/img/pirate-archers_1.jpg"],
+            "paint": null,
+            "type": "human",
+            "origins": ["conqueror"],
+            "count": 10
+        },
+
+        {
+            "id": "khitan-acolytes",
+            "thumb": "data/models/img/khitan-acolytes_sd.jpg",
+            "images": ["data/models/img/khitan-acolytes_1.jpg"],
+            "paint": { "name": "PiggyPog", "link": "https://www.facebook.com/PiggyPogWorkshop/" },
+            "type": "human",
+            "origins": ["conqueror"],
+            "count": 10
+        },
+
+        {
+            "id": "gorm",
+            "thumb": "data/models/img/gorm_sd.jpg",
+            "images": ["data/models/img/gorm_1.jpg"],
+            "paint": null,
+            "type": "monster",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "baal-pteor",
+            "thumb": "data/models/img/baal-pteor-2_sd.jpg",
+            "images": ["data/models/img/baal-pteor-2_1.jpg"],
+            "paint": null,
+            "type": "human",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "conan-the-conqueror",
+            "thumb": "data/models/img/conan-the-conqueror_sd.jpg",
+            "images": ["data/models/img/conan-the-conqueror_1.jpg"],
+            "paint": { "name": "Roolz (Licence Creative Common by-cc-sa)", "link": "https://the-overlord.com/index.php?/profile/13-roolz/"},
+            "type": "human",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "conan-the-pirate",
+            "thumb": "data/models/img/conan-the-pirate_sd.jpg",
+            "images": ["data/models/img/conan-the-pirate_1.jpg", "data/models/img/conan-the-pirate_2.jpg"],
+            "paint": null,
+            "type": "human",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "nyaga",
+            "thumb": "data/models/img/nyaga_sd.jpg",
+            "images": ["data/models/img/nyaga_1.jpg", "data/models/img/nyaga_2.jpg"],
+            "paint": null,
+            "type": "human",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "zenobia",
+            "thumb": "data/models/img/zenobia_sd.jpg",
+            "images": ["data/models/img/zenobia_1.jpg"],
+            "paint": null,
+            "type": "human",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "xaltotun",
+            "thumb": "data/models/img/xaltotun_sd.jpg",
+            "images": ["data/models/img/xaltotun_1.jpg"],
+            "paint": null,
+            "type": "human",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "manifestation-of-mitra",
+            "thumb": "data/models/img/manifestation-of-mitra_sd.jpg",
+            "images": ["data/models/img/manifestation-of-mitra_1.jpg", "data/models/img/manifestation-of-mitra_2.jpg"],
+            "paint": { "name": "Martin Grandbarbe", "link": "https://www.facebook.com/martin.grandbarbe"},
+            "type": "monster",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "zamorian-spider",
+            "thumb": "data/models/img/zamorian-spider_sd.jpg",
+            "images": ["data/models/img/zamorian-spider_1.jpg", "data/models/img/zamorian-spider_2.jpg"],
+            "paint": { "name": "Martin Grandbarbe", "link": "https://www.facebook.com/martin.grandbarbe"},
+            "type": "monster",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "manifestation-of-yog",
+            "thumb": "data/models/img/manifestation-of-yog_sd.jpg",
+            "images": ["data/models/img/manifestation-of-yog.jpg", "data/models/img/manifestation-of-yog_2.jpg"],
+            "paint": { "name": "Martin Grandbarbe", "link": "https://www.facebook.com/martin.grandbarbe"},
+            "type": "monster",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "thulsa-doom",
+            "thumb": "data/models/img/thulsa-doom_sd.jpg",
+            "images": ["data/models/img/thulsa-doom_1.jpg"],
+            "paint": null,
+            "type": "monster",
+            "origins": ["shadow-kingdom"]
+        },
+        
+        {
+            "id": "kull",
+            "thumb": "data/models/img/kull_sd.jpg",
+            "images": ["data/models/img/kull_1.jpg"],
+            "paint": null,
+            "type": "monster",
+            "origins": ["shadow-kingdom"]
+        },
+        
+        {
+            "id": "brule",
+            "thumb": "data/models/img/brule_sd.jpg",
+            "images": ["data/models/img/brule_1.jpg"],
+            "paint": null,
+            "type": "monster",
+            "origins": ["shadow-kingdom"]
+        },
+        
+        {
+            "id": "serpent-men",
+            "thumb": "data/models/img/serpent-men_sd.jpg",
+            "images": ["data/models/img/serpent-men_1.jpg"],
+            "paint": null,
+            "type": "monster",
+            "origins": ["shadow-kingdom"],
+            "count": 10
         }
     ]
 }

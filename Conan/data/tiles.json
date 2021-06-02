@@ -4773,6 +4773,1175 @@
             "image_zoom": 220,
             "model": "scourge-of-set",
             "origins": ["corinthia"]
+        },
+        
+        {
+            "id": "ghouls",
+            "name": {
+                "fr": "Goules",
+                "en": "Ghouls",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "1",
+            "attacktype": "contact",
+            "dices": { "0": "yellow", "1": "yellow", "2": "none", "3": "none" },
+            "skills": { "0": "movement/climb", "1": "attack/precision_strike", "2": "none", "3": "none" },
+            "reinforcement": "1",
+
+            "quote": {
+                "text": {
+                    "fr": "On les appelait des goules, des créatures qui se nourrissaient de chair humaine, rejetons des ténèbres issus des accouplements impies d’une race perdue et oubliée avec les démons des profondeurs. Quelque part dans ces forêts primitives se trouvaient les ruines d’une antique cité maudite, disait-on, et des ombres grises ayant l’aspect d’êtres humains rôdaient entre les tombes..",
+                    "en": "Ghouls, men called them, eaters of human flesh, spawn of darkness, children of unholy matings of a lost and forgotten race with the demons of the underworld. Somewhere in these primitive forests were the ruins of an ancient, accursed city, men whispered, and among its tombs slunk gray, anthropomorphic shadows...",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "L’Heure du dragon",
+                    "en": "Hour of the Dragon",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+            
+            "image": "data/tiles/img/ghouls.png",
+            "imageHD": "data/tiles/img/ghouls_hd.png",
+            "image_location": {"x":62, "y":55},
+            "image_zoom": 100,
+            "model": "ghouls",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "ghouls-2",
+            "name": {
+                "fr": "Goules",
+                "en": "Ghouls",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["red", "blue"],
+            "movement": "3",
+            "defense": "2",
+            "attacktype": "contact",
+            "dices": { "0": "yellow", "1": "yellow", "2": "none", "3": "none" },
+            "skills": { "0": "movement/climb", "1": "attack/precision_strike", "2": "none", "3": "none" },
+            "reinforcement": "1",
+
+            "quote": {
+                "text": {
+                    "fr": "On les appelait des goules, des créatures qui se nourrissaient de chair humaine, rejetons des ténèbres issus des accouplements impies d’une race perdue et oubliée avec les démons des profondeurs. Quelque part dans ces forêts primitives se trouvaient les ruines d’une antique cité maudite, disait-on, et des ombres grises ayant l’aspect d’êtres humains rôdaient entre les tombes..",
+                    "en": "Ghouls, men called them, eaters of human flesh, spawn of darkness, children of unholy matings of a lost and forgotten race with the demons of the underworld. Somewhere in these primitive forests were the ruins of an ancient, accursed city, men whispered, and among its tombs slunk gray, anthropomorphic shadows...",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "L’Heure du dragon",
+                    "en": "Hour of the Dragon",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+            
+            "image": "data/tiles/img/ghouls.png",
+            "imageHD": "data/tiles/img/ghouls_hd.png",
+            "image_location": {"x":62, "y":55},
+            "image_zoom": 100,
+            "model": "ghouls",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "khitan-acolytes",
+            "name": {
+                "fr": "Acolytes khitiens",
+                "en": "Khitan Acolytes",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "1",
+            "attacktype": "contact",
+            "dices": { "0": "orange", "1": "yellow", "2": "none", "3": "none" },
+            "skills": { "0": "defense/sacrifice", "1": "none", "2": "none", "3": "none" },
+            "reinforcement": "1",
+
+            "quote": {
+                "text": {
+                    "fr": "Je t’ai suivi bien loin, ô roi d’Aquilonie », déclara posément le Khitan. « J’ai descendu le grand fleuve, franchi les montagnes, traversé Poitain et Zingara et les collines d’Argos jusqu’à la côte. Il ne nous a pas été facile de trouver ta trace depuis Tarantia, car les prêtres d ‘Asura sont rusés. Nous l’avons perdue en Zingara, mais nous avons trouvé ton casque dans la forêt au bas des collines de la frontière, où tu t’étais battu contre les goules de la forêt. Nous avions presque perdu ta trace ce soir, dans ce labyrinthe.. la longue piste s’arrête ici. »",
+                    "en": "Far have I followed you, oh king of Aquilonia,” said the Khitan calmly. “Down the long river, and over the mountains, across Poitain and Zingara and through the hills of Argos and down the coast. Not easily did we pick up your trail from Tarantia, for the priests of Asura are crafty. We lost it in Zingara, but we found your helmet in the forest below the border hills, where you had fought with the ghouls of the forests. Almost we lost the trail again tonight among these labyrinths...the long trail ends here.”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "L’Heure du dragon",
+                    "en": "Hour of the Dragon",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/khitan-acolytes.png",
+            "imageHD": "data/tiles/img/khitan-acolytes_hd.png",
+            "image_location": {"x":57, "y":50},
+            "image_zoom": 118,
+            "model": "khitan-acolytes",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "khitan-acolytes-2",
+            "name": {
+                "fr": "Acolytes khitiens",
+                "en": "Khitan Acolytes",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "2",
+            "attacktype": "contact",
+            "dices": { "0": "orangereroll", "1": "orangereroll", "2": "none", "3": "none" },
+            "skills": { "0": "movement/feline_grace", "1": "attack/attack_from_beyond", "2": "none", "3": "none" },
+            "reinforcement": "2",
+
+            "quote": {
+                "text": {
+                    "fr": "Je t’ai suivi bien loin, ô roi d’Aquilonie », déclara posément le Khitan. « J’ai descendu le grand fleuve, franchi les montagnes, traversé Poitain et Zingara et les collines d’Argos jusqu’à la côte. Il ne nous a pas été facile de trouver ta trace depuis Tarantia, car les prêtres d ‘Asura sont rusés. Nous l’avons perdue en Zingara, mais nous avons trouvé ton casque dans la forêt au bas des collines de la frontière, où tu t’étais battu contre les goules de la forêt. Nous avions presque perdu ta trace ce soir, dans ce labyrinthe.. la longue piste s’arrête ici. »",
+                    "en": "Far have I followed you, oh king of Aquilonia,” said the Khitan calmly. “Down the long river, and over the mountains, across Poitain and Zingara and through the hills of Argos and down the coast. Not easily did we pick up your trail from Tarantia, for the priests of Asura are crafty. We lost it in Zingara, but we found your helmet in the forest below the border hills, where you had fought with the ghouls of the forests. Almost we lost the trail again tonight among these labyrinths...the long trail ends here.”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "L’Heure du dragon",
+                    "en": "Hour of the Dragon",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/khitan-acolytes.png",
+            "imageHD": "data/tiles/img/khitan-acolytes_hd.png",
+            "image_location": {"x":57, "y":50},
+            "image_zoom": 118,
+            "model": "khitan-acolytes",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "khitan-acolytes-3",
+            "name": {
+                "fr": "Acolytes khitiens",
+                "en": "Khitan Acolytes",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["black"],
+            "movement": "3",
+            "defense": "2",
+            "attacktype": "contact",
+            "dices": { "0": "orangereroll", "1": "orangereroll", "2": "none", "3": "none" },
+            "skills": { "0": "movement/feline_grace", "1": "miscellaneous/jinx", "2": "none", "3": "none" },
+            "reinforcement": "2",
+
+            "quote": {
+                "text": {
+                    "fr": "Je t’ai suivi bien loin, ô roi d’Aquilonie », déclara posément le Khitan. « J’ai descendu le grand fleuve, franchi les montagnes, traversé Poitain et Zingara et les collines d’Argos jusqu’à la côte. Il ne nous a pas été facile de trouver ta trace depuis Tarantia, car les prêtres d ‘Asura sont rusés. Nous l’avons perdue en Zingara, mais nous avons trouvé ton casque dans la forêt au bas des collines de la frontière, où tu t’étais battu contre les goules de la forêt. Nous avions presque perdu ta trace ce soir, dans ce labyrinthe.. la longue piste s’arrête ici. »",
+                    "en": "Far have I followed you, oh king of Aquilonia,” said the Khitan calmly. “Down the long river, and over the mountains, across Poitain and Zingara and through the hills of Argos and down the coast. Not easily did we pick up your trail from Tarantia, for the priests of Asura are crafty. We lost it in Zingara, but we found your helmet in the forest below the border hills, where you had fought with the ghouls of the forests. Almost we lost the trail again tonight among these labyrinths...the long trail ends here.”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "L’Heure du dragon",
+                    "en": "Hour of the Dragon",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/khitan-acolytes.png",
+            "imageHD": "data/tiles/img/khitan-acolytes_hd.png",
+            "image_location": {"x":57, "y":50},
+            "image_zoom": 118,
+            "model": "khitan-acolytes",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "pirate-archers",
+            "name": {
+                "fr": "Archers pirates",
+                "en": "Pirate Archers",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray", "black"],
+            "movement": "3",
+            "defense": "2",
+            "attacktype": "ranged",
+            "dices": { "0": "yellowreroll", "1": "yellow", "2": "none", "3": "none" },
+            "skills": { "0": "movement/leap", "1": "miscellaneous/concentration", "2": "none", "3": "none" },
+            "reinforcement": "1",
+
+            "quote": {
+                "text": {
+                    "fr": "Conan surgit devant eux et leur fit face, épée à la main. Ils battirent en retraite, poussant des cris de menace et de surprise, puis s’arrêtèrent avec incertitude pour mieux examiner cette silhouette qui était apparue si soudainement des rochers. Ils étaient environ soixante-dix, une horde sauvage composée d’hommes de nombreuses nations : Kothiens, Zamoriens, Brythuniens, Corinthiens, Shémites. Leurs traits reflétaient la sauvagerie de leurs mœurs. Beaucoup portaient la marque du fouet ou du fer rouge. Il y avait des oreilles coupées, des nez fendus en deux, des orbites béantes, des moignons de poignet.. blessures infligées par le bourreau autant que cicatrices résultant de batailles sanglantes. La plupart d’entre eux étaient à moitié nus, mais leurs quelques vêtements étaient de prix et élégants: jaquettes aux soutaches d’or, ceinturons de satin, braies de soie en lambeaux, maculées de goudron et de sang, le disputant avec leurs pièces de cuirasse en argent ciselé. Des gemmes étincelaient sur des anneaux de nez et des boucles d’oreilles, sur les pommeaux de leurs dagues.",
+                    "en": "Conan stepped out from among the boulders and faced them, sword in hand. They gave back with yells of menace and surprise; then halted uncertainly to glare at this figure which had appeared so suddenly from the rocks. There were some seventy of them, a wild horde made up of men from many nations: Kothians, Zamorians, Brythunians, Corinthians, Shemites. Their features reflected the wildness of their natures. Many bore the scars of the lash or the branding-iron. There were cropped ears, slit noses, gaping eye-sockets, stumps of wrists— marks of the hangman as well as scars of battle. Most of them were half naked, but the garments they wore were fine; gold-braided jackets, satin girdles, silken breeches, tattered, stained with tar and blood, vied with pieces of silver-chased armor. Jewels glittered in nose-rings and earrings, and in the hilts of their daggers.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Chimères de fer dans la clarté lunaire",
+                    "en": "Iron Shadows in the Moon",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/pirate-archers.png",
+            "imageHD": "data/tiles/img/pirate-archers_hd.png",
+            "image_location": {"x":60, "y":60},
+            "image_zoom": 110,
+            "model": "pirate-archers",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "children-of-gullah",
+            "name": {
+                "fr": "Enfants de Gullah",
+                "en": "Children of Gullah",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "3",
+            "attacktype": "contact",
+            "dices": { "0": "redreroll", "1": "orange", "2": "yellowreroll", "3": "none" },
+            "skills": { "0": "movement/feline_grace", "1": "defense/untouchable", "2": "none", "3": "none" },
+            "reinforcement": "3",
+
+            "quote": {
+                "text": {
+                    "fr": "Un homme-singe gris, » grogna-t-il. « Muet et mangeur de chair humaine. Ils vivent dans les collines qui bordent la côte orientale de cette mer. Comment celui-ci est-il arrivé sur cette île, je ne saurais le dire. Peut-être a-t-il dérivé jusqu’ici, accroché à un tronc d’arbre déraciné et emporté par une tempête, loin du continent.\n - C’est lui qui a lancé le rocher sur nous ?\n - Oui.. Ces créatures se tiennent toujours aux aguets dans les bois les plus profonds qu’ils puissent trouver et en sortent rarement. Pour quelle raison s’est-il risqué sur les falaises, je l’ignore. Cela a été une chance pour nous; au milieu des arbres jamais je n’aurais pu venir à bout de ce monstre.. Les créatures de son espèce vivent dans des endroits silencieux, dans les ténèbres ; elles détestent le soleil autant que la lune. »",
+                    "en": "A gray man-ape,” he grunted. “Dumb, and man eating. They dwell in the hills that border the eastern shore of this sea. How this one got to this island, I can’t say. Maybe he floated here on driftwood, blown out from the mainland in a storm.” \n“And it was he that threw the stone?” \n“Yes...These creatures always lurk in the deepest woods they can find, and seldom emerge. What brought him into the open, I can’t say, but it was lucky for us; I’d have had no chance with him among the trees...His kind are creatures of darkness and the silent places, haters of sun and moon.”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Chimères de fer dans la clarté lunaire",
+                    "en": "Iron Shadows in the Moon",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/children-of-gullah.png",
+            "imageHD": "data/tiles/img/children-of-gullah_hd.png",
+            "image_location": {"x":57, "y":60},
+            "image_zoom": 115,
+            "model": "children-of-gullah",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "haunter-of-the-picts",
+            "name": {
+                "fr": "Horreur des Fosses",
+                "en": "Haunter of the Picts",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "4",
+            "attacktype": "contact",
+            "dices": { "0": "redreroll", "1": "orangereroll", "2": "yellowreroll", "3": "none" },
+            "skills": { "0": "movement/blocking", "1": "defense/untouchable", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":47, "y":169}, "image_zoom": 310 }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "À demi mythiques et totalement horribles, ces singes étaient les gobelins des légendes hyboriennes. ",
+                    "en": "Half mythical and altogether horrible, these apes were the goblins of Hyborian legendry",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Chimères de fer dans la clarté lunaire",
+                    "en": "-",
+                    "it": "-"
+                },
+                "author": {
+                    "name": "-"
+                }
+            },
+
+            "image": "data/tiles/img/haunter-of-the-picts.png",
+            "imageHD": "data/tiles/img/haunter-of-the-picts_hd.png",
+            "image_location": {"x":57, "y":60},
+            "image_zoom": 115,
+            "model": "children-of-gullah",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "ballista-pirates",
+            "name": {
+                "fr": "Balistes Pirates",
+                "en": "Ballista Pirates",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "2",
+            "defense": "3",
+            "attacktype": "ranged",
+            "dices": { "0": "red", "1": "red", "2": "none", "3": "none" },
+            "skills": { "0": "attack/precision_shot", "1": "miscellaneous/concentration", "2": "none", "3": "none" },
+            "reinforcement": "3",
+
+            "image": "data/tiles/img/ballista-pirates.png",
+            "imageHD": "data/tiles/img/ballista-pirates_hd.png",
+            "image_location": {"x":48, "y":48},
+            "image_zoom": 105,
+            "model": "ballista-pirates",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "elite-ballista",
+            "name": {
+                "fr": "Baliste d'élite",
+                "en": "Ballista Pirates",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "2",
+            "defense": "3",
+            "attacktype": "ranged",
+            "dices": { "0": "red", "1": "red", "2": "red", "3": "none" },
+            "skills": { "0": "attack/precision_shot", "1": "miscellaneous/concentration", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":32, "y":75}, "image_zoom": 140 }
+            ],
+
+            "image": "data/tiles/img/elite-ballista.png",
+            "imageHD": "data/tiles/img/elite-ballista_hd.png",
+            "image_location": {"x":48, "y":48},
+            "image_zoom": 105,
+            "model": "ballista-pirates",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "deep-ones",
+            "name": {
+                "fr": "Profonds",
+                "en": "Deep Ones",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "2",
+            "defense": "3",
+            "attacktype": "contact",
+            "dices": { "0": "red", "1": "yellowreroll", "2": "none", "3": "none" },
+            "skills": { "0": "miscellaneous/poison", "1": "attack/reach", "2": "none", "3": "none" },
+            "reinforcement": "2",
+
+            "quote": {
+                "text": {
+                    "fr": "Au cours de ses périples, il trouva un peuple primitif qui habitait l’île de Dagonia ; il lui plut d’apporter à cette race la culture et la civilisation et, grâce à son aide, ils construisirent la cité de Dagon ; ils y vécurent et le vénérèrent.",
+                    "en": "In his wanderings he came upon a primitive people inhabiting the island of Dagonia, and it pleased him to give this race culture and civilization, and by his aid they built the city of Dagon and they abode there and worshipped him.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Le Diable d’Airain",
+                    "en": "The Devil in Iron",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/deep-ones.png",
+            "imageHD": "data/tiles/img/deep-ones_hd.png",
+            "image_location": {"x":52, "y":50},
+            "image_zoom": 125,
+            "model": "deep-ones",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "deep-one-champion",
+            "name": {
+                "fr": "Champion Profond",
+                "en": "Deep One Champion",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "3",
+            "attacktype": "contact",
+            "dices": { "0": "redreroll", "1": "orange", "2": "yellowreroll", "3": "none" },
+            "skills": { "0": "miscellaneous/poison", "1": "attack/reach", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":50, "y":50}, "image_zoom": 130, "image": "data/tiles/img/deep-one-champion_token.png" }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "Au cours de ses périples, il trouva un peuple primitif qui habitait l’île de Dagonia ; il lui plut d’apporter à cette race la culture et la civilisation et, grâce à son aide, ils construisirent la cité de Dagon ; ils y vécurent et le vénérèrent.",
+                    "en": "In his wanderings he came upon a primitive people inhabiting the island of Dagonia, and it pleased him to give this race culture and civilization, and by his aid they built the city of Dagon and they abode there and worshipped him.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Le Diable d’Airain",
+                    "en": "The Devil in Iron",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/deep-one-champion.png",
+            "imageHD": "data/tiles/img/deep-one-champion_hd.png",
+            "image_location": {"x":52, "y":50},
+            "image_zoom": 125,
+            "model": "deep-ones",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "zenobia",
+            "name": {
+                "fr": "Zenobia",
+                "en": "Zenobia",
+                "it": "Zenobia"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "2",
+            "attacktype": "contact",
+            "dices": { "0": "orangereroll", "1": "yellow", "2": "none", "3": "none" },
+            "skills": { "0": "miscellaneous/support", "1": "miscellaneous/poison", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":29, "y":194}, "image_zoom": 360 }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "Mais je ne suis pas une poupée fardée, je suis un être de chair et de sang. Je respire, je connais la haine, la peur, la joie et l’amour. Et je vous aime, roi Conan, depuis ce jour où je vous ai vu dans les rues de Belverus, avançant à la tête de vos chevaliers, quand vous avez rendu visite au roi Nimed, il y a des années de cela. Mon cœur a bondi dans ma poitrine et a menacé de s’envoler pour venir tomber dans la poussière de la rue sous les sabots de votre cheval. »\nSes traits s’empourpraient au fur et à mesure qu’elle parlait, mais ses yeux noirs ne vacillèrent pas. Conan ne répondit pas toute de suite. Aussi sauvage, passionnée et indomptée soit-elle, il aurait fallu être une brute insondable pour ne pas être ému, et même quelque peu intimidé et émerveillé, par cette femme qui mettait son âme à nu.",
+                    "en": "But I am no painted toy; I am of flesh and blood. I breathe, hate, fear, rejoice and love. And I have loved you, King Conan, ever since I saw you riding at the head of your knights along the streets of Belverus when you visited King Nimed, years ago. My heart tugged at its strings to leap from my bosom and fall in the dust of the street under your horse’s hoofs.”\nColor flooded her countenance as she spoke, but her dark eyes did not waver. Conan did not at once reply; wild and passionate and untamed he was, yet any but the most brutish of men must be touched with a certain awe or wonder at the baring of a woman’s naked soul.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "L’Heure du dragon",
+                    "en": "Hour of the Dragon",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/zenobia.png",
+            "imageHD": "data/tiles/img/zenobia_hd.png",
+            "image_location": {"x":60, "y":49},
+            "image_zoom": 112,
+            "model": "zenobia",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "manifestation-of-mitra",
+            "name": {
+                "fr": "Manifestation de Mitra",
+                "en": "Manifestation of Mitra",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "2",
+            "defense": "10",
+            "attacktype": "contact",
+            "dices": { "0": "red", "1": "red", "2": "red", "3": "none" },
+            "skills": { "0": "movement/wall_wrecker", "1": "attack/reach", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":9, "y":199}, "image_zoom": 400 }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "Derrière un autel de jade vert clair, vierge de tout sacrifice, se dressait le piédestal sur lequel était assise la représentation matérielle de la divinité. Yasmela contempla avec crainte la longue courbe des magnifiques épaules, les traits bien découpés : les yeux larges et droits, la barbe de patriarche, les boucles épaisses des cheveux, retenues par un simple bandeau enserrant les tempes. Cette statue, bien que la princesse l’ignorât, était un chef-d’œuvre, l’expression artistique, libre de toute entrave, d’une race hautement cultivée, débarrassée de tout symbolisme conventionnel. \n « Ceci n’est que la représentation du dieu. Personne n’a jamais prétendu savoir à quoi ressemblait Mitra. Ceci le représente seulement sous une forme humaine idéalisée, aussi proche de la perfection que l’esprit humain peut le concevoir. Il n’habite pas cette pierre froide, comme l’affirment vos prêtres à propos d’Ishtar. Il est partout.. au-dessus de nous et autour de nous, et il rêve parfois en de hauts lieux parmi les étoiles. Mais son être se concentre ici. C’est pourquoi tu peux l’invoquer à présent. » \n... Les deux jeunes filles sursautèrent violemment alors qu’une voix retentissait dans l’air au-dessus d’elles. \n Les accents sereins, aussi graves et mélodieux qu’une cloche, provenaient autant de la statue que de tout autre endroit dans la pièce. De nouveau Yasmela trembla devant une voix immatérielle qui s’adressait à elle ; cette fois, ce n’était pas d’horreur ou de répulsion.",
+                    "en": "Behind an altar of clear green jade, unstained with sacrifice, stood the pedestal whereon sat the material manifestation of the deity. Yasmela looked in awe at the sweep of the magnificent shoulders, the clear-cut features—the wide straight eyes, the patriarchal beard, the thick curls of the hair, confined by a simple band about the temples. This, though she did not know it, was art in its highest form—the free, uncramped artistic expression of a highly esthetic race, unhampered by conventional symbolism. \n“This is but the emblem of the god. None pretends to know what Mitra looks like. This but represents him in idealized human form, as near perfection as the human mind can conceive. He does not inhabit this cold stone, as your priests tell you Ishtar does. He is everywhere—above us, and about us, and he dreams betimes in the high places among the stars. But here his being focusses. Therefore call upon him.” \n...Then both girls started violently as a voice began in the air above them. The deep, calm, bell-like tones emanated no more from the image than from anywhere else in the chamber. Again Yasmela trembled before a bodiless voice speaking to her, but this time it was not from horror or repulsion.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Le Colosse noir",
+                    "en": "Black Colossus",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/manifestation-of-mitra.png",
+            "imageHD": "data/tiles/img/manifestation-of-mitra_hd.png",
+            "image_location": {"x":53, "y":50},
+            "image_zoom": 122,
+            "model": "manifestation-of-mitra",
+            "origins": ["conqueror"],
+            
+            "count": 2
+        },
+        
+        {
+            "id": "xaltotun",
+            "name": {
+                "fr": "Xaltotun",
+                "en": "Xaltotun",
+                "it": "Xaltotun"
+            },
+
+            "colors": ["gray"],
+            "movement": "2",
+            "defense": "2",
+            "attacktype": "ranged",
+            "dices": { "0": "orangereroll", "1": "orange", "2": "none", "3": "none" },
+            "skills": { "0": "defense/protected", "1": "magic/spell_caster", "2": "miscellaneous/horror", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":26, "y":220}, "image_zoom": 460 }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "Éclairée de la sorte, la silhouette enfoncée dans le fauteuil d’argent en forme de trône et qui lui faisait face paraissait irréelle et fantastique. Sa légère robe de soie accentuait cette impression de flou dans ses contours. Mais ses traits étaient, eux, parfaitement distincts, bien plus qu’ils n’auraient dû l’être dans cette lumière incertaine. C’était comme si un nimbe entourait cette tête, faisant ressortir nettement ce visage barbu, qui devenait l’unique réalité tangible et distincte dans cette pièce mystique et spectrale. Son visage était magnifique et ses traits bien découpés étaient empreints d’une beauté classique. Il y avait, en effet, quelque chose d’inquiétant qui émanait de cette apparence paisible et tranquille, quelque chose qui dépassait l’entendement, une certitude profonde au-delà du savoir humain.",
+                    "en": "In that light the figure seated in a silver, thronelike chair before him seemed unreal and fantastic, with an illusiveness of outline that was heightened by a filmy silken robe. But the features were distinct—unnaturally so in that uncertain light. It was almost as if a weird nimbus played about the man’s head, casting the bearded face into bold relief, so that it was the only definite and distinct reality in that mystic, ghostly chamber. It was a magnificent face, with strongly chiseled features of classical beauty. There was, indeed, something disquieting about the calm tranquility of its aspect, a suggestion of more than human knowledge, of a profound certitude beyond human assurance.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "L’Heure du dragon",
+                    "en": "Hour of the Dragon",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/xaltotun.png",
+            "imageHD": "data/tiles/img/xaltotun_hd.png",
+            "image_location": {"x":58, "y":50},
+            "image_zoom": 116,
+            "model": "xaltotun",
+            "origins": ["conqueror"],
+            
+            "count": 2
+        },
+        
+        {
+            "id": "conan-the-pirate",
+            "name": {
+                "fr": "Conan le Pirate",
+                "en": "Conan the Pirate",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "3",
+            "attacktype": "contact",
+            "dices": { "0": "red", "1": "red", "2": "red", "3": "none" },
+            "skills": { "0": "movement/wall_wrecker", "1": "attack/circular_strike", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":-4, "y":224}, "image_zoom": 440 }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "L’eau s’écoulait en ruisselant de ses épaules, glissant le long de ses bras puissants. Son unique vêtement - des culottes de soie rouge - était trempé, tout comme sa large ceinture à boucle d’or et l’épée gainée dans le fourreau qu’elle soutenait. Tandis qu’il finissait d’escalader ainsi la lisse, les rayons du soleil levant découpèrent sa silhouette, le faisant ressembler à une grande statue de bronze. Il passa ses doigts dans sa sombre crinière ruisselante d’eau et ses yeux bleus brillèrent comme ils se posaient sur la jeune fille.",
+                    "en": "Water ran in rivulets from his great shoulders and down his heavy arms. His single garment—a pair of bright crimson silk breeks— was soaking wet, as was his broad gold-buckled girdle and the sheathed sword it supported. As he stood at the rail, the rising sun etched him like a great bronze statue. He ran his fingers through his streaming black mane, and his blue eyes lit as they rested on the girl.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Le Bassin de l’homme noir",
+                    "en": "Pool of the Black One",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/conan-the-pirate.png",
+            "imageHD": "data/tiles/img/conan-the-pirate_hd.png",
+            "image_location": {"x":55, "y":52},
+            "image_zoom": 120,
+            "model": "conan-the-pirate",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "nyaga",
+            "name": {
+                "fr": "N'Yaga",
+                "en": "N'Yaga",
+                "it": "N'Yaga"
+            },
+
+            "colors": ["gray"],
+            "movement": "2",
+            "defense": "2",
+            "attacktype": "ranged",
+            "dices": { "0": "yellowreroll", "1": "yellowreroll", "2": "none", "3": "none" },
+            "skills": { "0": "miscellaneous/concentration", "1": "miscellaneous/jinx", "2": "space", "3": "magic/spell_caster" },
+            "tokens": [
+                { "image_location": {"x":4, "y":200}, "image_zoom": 400 }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "Ho, N’Yaga ! » (Sa voix vibra comme la corde d’un arc.) « Apporte des herbes et soigne les blessures de ton maître !\nVous autres, transbordez le butin sans perdre de temps et détachez les grappins. »\nTandis que Conan était assis, le dos au bastingage du gaillard d’arrière et que le vieux chaman s’occupait de ses blessures aux mains et aux membres, la cargaison de l’infortuné Argus était rapidement portée à bord de la Tigresse et entreposée dans les petites cabines aménagées sous le pont.",
+                    "en": "Ho, N’Yaga!” her voice twanged like a bowstring.\n“Fetch herbs and dress your master’s wounds! The rest of you bring aboard the plunder and cast off.”\nAs Conan sat with his back against the poop-rail, while the old shaman attended to the cuts on his hands and limbs, the cargo of the ill-fated Argus was quickly shifted aboard the Tigress and stored in small cabins below deck.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "La Reine de la Côte Noire",
+                    "en": "Queen of the Black Coast",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/nyaga.png",
+            "imageHD": "data/tiles/img/nyaga_hd.png",
+            "image_location": {"x":55, "y":50},
+            "image_zoom": 117,
+            "model": "nyaga",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "gorm",
+            "name": {
+                "fr": "Gorm",
+                "en": "Gorm",
+                "it": "Gorm"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "3",
+            "attacktype": "contact",
+            "dices": { "0": "red", "1": "orange", "2": "yellow", "3": "none" },
+            "skills": { "0": "miscellaneous/support", "1": "attack/precision_strike", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":56, "y":154}, "image_zoom": 350 }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "Gorm avait derrière lui un héritage de cent mille ans de sauvagerie hurlante ; \nle pas feutré du tigre était le sien, la poigne du gorille était celle de ses mains aux ongles noircis, le feu qui couve dans les yeux du léopard brûlait au fond des siens. \nGorm, fort de cette nouvelle activité et de ses connaissances accrues, commença à exercer sa domination sur les autres clans, en partie par la guerre, en partie par la ruse et la diplomatie, art dans lequel il surpassait tous les autres barbares.",
+                    "en": "Gorm had behind him a heritage of a hundred thousand years of screaming savagery—the pad of the tiger was in his stealthy step, the grip of the gorilla in his black-nailed hands, the fire that burns in a leopard’s eyes burned in his.\nAnd Gorm, by virtue of this new craft, began to assert his dominance over other clans, partly by war, partly by craft and diplomacy, in which latter art he excelled all other barbarians.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "L’Âge hyborien",
+                    "en": "The Hyborian Age",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/gorm.png",
+            "imageHD": "data/tiles/img/gorm_hd.png",
+            "image_location": {"x":64, "y":53.5},
+            "image_zoom": 103,
+            "model": "gorm",
+            "origins": ["conqueror"],
+            
+            "count": 2
+        },
+        
+        {
+            "id": "baal-pteor-2",
+            "name": {
+                "fr": "Baal Pteor",
+                "en": "Baal Pteor",
+                "it": "Baal Pteor"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "3",
+            "attacktype": "contact",
+            "dices": { "0": "redreroll", "1": "redreroll", "2": "orange", "3": "none" },
+            "skills": { "0": "attack/constriction", "1": "attack/precision_strike", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":77, "y":223}, "image_zoom": 400 }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "Ta tête, Cimmérien ! » se moqua Baal-pteor. « Je la prendrai, de mes mains nues, pour la tordre sur tes épaules comme on tord le cou à un poulet ! C’est ainsi que les fils de Kosala offrent leurs sacrifices à Yajur ! Barbare, tu as face à toi un des Étrangleurs de Yota-pong ! J’ai été choisi alors que je n’étais qu’un jeune garçon par les prêtres de Yajur. Durant toutes mes premières années, mon enfance et mon adolescence, j’ai été entraîné dans l’art de tuer de mes mains nues.. car c’est seulement ainsi que se font les sacrifices. Yajur aime le sang et nous ne perdons ainsi aucune goutte de celui de nos victimes ! De mes mains, barbare, je vais te briser le cou ! »",
+                    "en": "Your head, Cimmerian!” taunted Baal-pteor. “I shall take it with my bare hands, twisting it from your shoulders as the head of a fowl is twisted! Thus the sons of Kosala offer sacrifice to Yajur. Barbarian, you look upon a strangler of Yotapong. I was chosen by the priests of Yajur in my infancy, and throughout childhood, boyhood and youth I trained in the art of slaying with the naked hands—for only thus are the sacrifices enacted. Yajur loves blood, and we waste not a drop from the victim’s veins...With my hands, barbarian, I shall break your neck!”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Les Mangeurs d’hommes de Zamboula",
+                    "en": "Shadows in Zamboula",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/baal-pteor-2.png",
+            "imageHD": "data/tiles/img/baal-pteor-2_hd.png",
+            "image_location": {"x":59, "y":52},
+            "image_zoom": 114,
+            "model": "baal-pteor",
+            "origins": ["conqueror"],
+            
+            "count": 2
+        },
+        
+        {
+            "id": "zamorian-spider",
+            "name": {
+                "fr": "Araignée Zamorienne",
+                "en": "Zamorian Spider",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "5",
+            "defense": "3",
+            "attacktype": "contact",
+            "dices": { "0": "redreroll", "1": "orange", "2": "orange", "3": "none" },
+            "skills": { "0": "movement/climb", "1": "movement/web_projection", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":50, "y":50}, "image_zoom": 130, "image": "data/tiles/img/zamorian-spider_token.png" }
+            ],
+
+            "image": "data/tiles/img/zamorian-spider.png",
+            "imageHD": "data/tiles/img/zamorian-spider_hd.png",
+            "image_location": {"x":51, "y":54},
+            "image_zoom": 126,
+            "model": "zamorian-spider",
+            "origins": ["conqueror"],
+            
+            "count": 2
+        },
+        
+        {
+            "id": "manifestation-of-yog",
+            "name": {
+                "fr": "Manifestation de Yog",
+                "en": "Manifestation of Yog",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "2",
+            "defense": "6",
+            "attacktype": "contact",
+            "dices": { "0": "red", "1": "red", "2": "orange", "3": "orange" },
+            "skills": { "0": "movement/intangible", "1": "miscellaneous/horror", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":23, "y":116}, "image_zoom": 300 }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "Les habitants de cette ville ne toléreraient pas qu’il tue leurs concitoyens ! Mais ils se moquent de ce qui peut arriver aux étrangers qui tombent entre ses mains. Conan, tu viens de l’Ouest et tu ne connais pas les secrets de ce vieux pays, mais depuis l’aube des temps, les démons du désert célèbrent la gloire de Yog, le Seigneur des Demeures Vides, par le feu.. le feu qui se nourrit de victimes humaines !",
+                    "en": "The people of the city would not suffer him to slay their people, but they care naught for the strangers who fall into his hands. Conan, you are of the West, and know not the secrets of this ancient land. But, since the beginning of happenings, the demons of the desert have worshipped Yog, the Lord of the Empty Abodes, with fire—fire that devours human victims.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Les Mangeurs d’hommes de Zamboula",
+                    "en": "Shadows in Zamboula",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/manifestation-of-yog.png",
+            "imageHD": "data/tiles/img/manifestation-of-yog_hd.png",
+            "image_location": {"x":50, "y":48},
+            "image_zoom": 125,
+            "model": "manifestation-of-yog",
+            "origins": ["conqueror"],
+            
+            "count": 2
+        },
+        
+        {
+            "id": "conan-the-conqueror",
+            "name": {
+                "fr": "Conan le Conquérant",
+                "en": "Conan the Conqueror",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "4",
+            "attacktype": "contact",
+            "dices": { "0": "redreroll", "1": "redreroll", "2": "redreroll", "3": "none" },
+            "skills": { "0": "movement/wall_wrecker", "1": "attack/circular_strike", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":77, "y":180}, "image_zoom": 350 }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "Que sais-je du raffinement, des dorures, de l’artifice et du mensonge ? Moi, qui suis né dans une terre désolée et ai grandi à ciel ouvert. La langue subtile, la ruse du sophiste ne peuvent rien quand chante la grande épée ; Accourez et venez mourir, chiens - j’étais un homme avant d’être roi. »",
+                    "en": "What do I know of cultured ways, the gilt, the craft and the lie? I, who was born in a naked land and bred in the open sky. The subtle tongue, the sophist guile, they fail when the broadswords sing; Rush in and die, dogs—I was a man before I was a king.”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Le Phénix sur l’épée",
+                    "en": "The Phoenix on the Sword",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/conan-the-conqueror.png",
+            "imageHD": "data/tiles/img/conan-the-conqueror_hd.png",
+            "image_location": {"x":65, "y":48},
+            "image_zoom": 101,
+            "model": "conan-the-conqueror",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "winged-one",
+            "name": {
+                "fr": "Terreur Ailée",
+                "en": "Winged One",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "5",
+            "defense": "3",
+            "attacktype": "contact",
+            "dices": { "0": "redreroll", "1": "red", "2": "red", "3": "none" },
+            "skills": { "0": "miscellaneous/horror", "1": "movement/flying", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":115, "y":88}, "image_zoom": 466 }
+            ],
+
+            "image": "data/tiles/img/winged-one.png",
+            "image_location": {"x":87, "y":55},
+            "image_zoom": 225,
+            "model": "winged-ape",
+            "origins": ["conqueror"],
+            
+            "count": 2
+        },
+        
+        {
+            "id": "son-of-set",
+            "name": {
+                "fr": "Engeance de Set",
+                "en": "Son of Set",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "3",
+            "attacktype": "contact",
+            "dices": { "0": "red", "1": "orangereroll", "2": "orangereroll", "3": "none" },
+            "skills": { "0": "attack/constriction", "1": "attack/reach", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":17, "y":124}, "image_zoom": 300 }
+            ],
+
+            "image": "data/tiles/img/son-of-set.png",
+            "imageHD": "data/tiles/img/son-of-set_hd.png",
+            "image_location": {"x":52, "y":58},
+            "image_zoom": 125,
+            "model": "son-of-set",
+            "origins": ["conqueror"],
+            
+            "count": 2
+        },
+        
+        {
+            "id": "nameless-horror",
+            "name": {
+                "fr": "Horreur sans nom",
+                "en": "Nameless Horror",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "6",
+            "attacktype": "contact",
+            "dices": { "0": "redreroll", "1": "redreroll", "2": "redreroll", "3": "redreroll" },
+            "skills": { "0": "attack/constriction", "1": "movement/flying", "2": "attack/precision_strike", "3": "miscellaneous/horror" },
+            "tokens": [
+                { "image_location": {"x":-41, "y":160}, "image_zoom": 550 }
+            ],
+
+            "image": "data/tiles/img/nameless-horror.png",
+            "imageHD": "data/tiles/img/nameless-horror_hd.png",
+            "image_location": {"x":52, "y":51},
+            "image_zoom": 125,
+            "model": "nameless-horror",
+            "origins": ["conqueror"],
+            
+            "count": 2
+        },
+        
+        {
+            "id": "servant-of-ahriman",
+            "name": {
+                "fr": "Serviteur d’Ahriman",
+                "en": "Servant of Ahriman",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "4",
+            "defense": "4",
+            "attacktype": "contact",
+            "dices": { "0": "red", "1": "red", "2": "red", "3": "red" },
+            "skills": { "0": "defense/untouchable", "1": "movement/blocking", "2": "attack/counterattack", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":10, "y":143}, "image_zoom": 300 }
+            ],
+
+            "image": "data/tiles/img/servant-of-ahriman.png",
+            "imageHD": "data/tiles/img/servant-of-ahriman_hd.png",
+            "image_location": {"x":64, "y":58},
+            "image_zoom": 131,
+            "image_rotation": -15,
+            "model": "servant-of-ahriman",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "scourge-of-set",
+            "name": {
+                "fr": "Fléau de Set",
+                "en": "Scourge of Set",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "2",
+            "defense": "5",
+            "attacktype": "contact",
+            "dices": { "0": "redreroll", "1": "orangereroll", "2": "orangereroll", "3": "none" },
+            "skills": { "0": "attack/counterattack", "1": "attack/reach", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":-7, "y":79}, "image_zoom": 240 }
+            ],
+
+            "image": "data/tiles/img/hydra.png",
+            "imageHD": "data/tiles/img/hydra_hd.png",
+            "image_location": {"x":11, "y":61},
+            "image_zoom": 209,
+            "model": "scourge-of-set",
+            "origins": ["conqueror"],
+            
+            "count": 2
+        },
+        
+        {
+            "id": "serpent-men",
+            "name": {
+                "fr": "Hommes-serpents",
+                "en": "Serpent-Men",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "2",
+            "attacktype": "contact",
+            "dices": { "0": "yellowreroll", "1": "yellowreroll", "2": "none", "3": "none" },
+            "skills": { "0": "miscellaneous/jinx", "1": "none", "2": "none", "3": "none" },
+            "reinforcement": "2",
+
+            "quote": {
+                "text": {
+                    "fr": "Un homme à tête de serpent ! » murmura Kull. « S’agit-il donc d’un prêtre du dieu serpent ? \n- Oui. Tu dort, ne se doutant de rien. Ces démons peuvent prendre n’importe quelle apparence. Je veux dire qu’ils peuvent, grâce à un charme magique ou quelque chose de ce genre, jeter un voile de sorcellerie autour de leur visage, tel un acteur mettant un masque, de sorte qu’ils prennent l’apparence de qui bon leur semble. »",
+                    "en": "A man with the head of a snake!” Kull murmured. “This, then, is a priest of the serpent god?” \n“Aye. Tu sleeps unknowing. These fiends can take any form they will. That is, they can, by a magic charm or the like, fling a web of sorcery about their faces, as an actor dons a mask, so that they resemble anyone they wish to.”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Le Royaume des chimères",
+                    "en": "The Shadow Kingdom",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/serpent-men.png",
+            "imageHD": "data/tiles/img/serpent-men_hd.png",
+            "image_location": {"x":53, "y":52},
+            "image_zoom": 124,
+            "model": "serpent-men",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "serpent-men-2",
+            "name": {
+                "fr": "Hommes-serpents",
+                "en": "Serpent-Men",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["green"],
+            "movement": "3",
+            "defense": "2",
+            "attacktype": "contact",
+            "dices": { "0": "yellowreroll", "1": "yellowreroll", "2": "none", "3": "none" },
+            "skills": { "0": "defense/protected", "1": "attack/precision_strike", "2": "none", "3": "none" },
+            "reinforcement": "2",
+
+            "quote": {
+                "text": {
+                    "fr": "Un homme à tête de serpent ! » murmura Kull. « S’agit-il donc d’un prêtre du dieu serpent ? \n- Oui. Tu dort, ne se doutant de rien. Ces démons peuvent prendre n’importe quelle apparence. Je veux dire qu’ils peuvent, grâce à un charme magique ou quelque chose de ce genre, jeter un voile de sorcellerie autour de leur visage, tel un acteur mettant un masque, de sorte qu’ils prennent l’apparence de qui bon leur semble. »",
+                    "en": "A man with the head of a snake!” Kull murmured. “This, then, is a priest of the serpent god?” \n“Aye. Tu sleeps unknowing. These fiends can take any form they will. That is, they can, by a magic charm or the like, fling a web of sorcery about their faces, as an actor dons a mask, so that they resemble anyone they wish to.”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Le Royaume des chimères",
+                    "en": "The Shadow Kingdom",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/serpent-men.png",
+            "imageHD": "data/tiles/img/serpent-men_hd.png",
+            "image_location": {"x":53, "y":52},
+            "image_zoom": 124,
+            "model": "serpent-men",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "thulsa-doom",
+            "name": {
+                "fr": "Thulsa Doom",
+                "en": "Thulsa Doom",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "3",
+            "attacktype": "contact",
+            "dices": { "0": "redreroll", "1": "red", "2": "none", "3": "none" },
+            "skills": { "0": "miscellaneous/jinx", "1": "magic/spell_caster", "2": "none", "3": "none" },
+            "tokens": [
+                { "image_location": {"x":-56, "y":180}, "image_zoom": 400 }
+            ],
+
+            "quote": {
+                "text": {
+                    "fr": "L’être à tête de crâne éclata de rire. « Il y a une éternité de cela, je suis mort comme meurent les hommes ! » se vanta-t-il. « Non, je passerai dans quelque autre sphère d’existence lorsque mon heure sera venue, pas avant. Je ne saigne pas car mes veines sont vides, et je ne sens qu’un léger frisson, qui disparaîtra lorsque la blessure se refermera, ce qu’elle a déjà commencé à faire. Reculez, imbéciles, votre maître s’en va, mais il reviendra. Quand ce jour viendra, vous hurlerez, vous vous ratatinerez et vous mourrez ! Kull, je te salue ! »",
+                    "en": "The skull-faced one laughed. “Ages ago I died as men did!” he taunted. “Nay, I shall pass to some other sphere when my time comes, not before. I bleed not, for my veins are empty, and I feel only a slight coldness which shall pass when the wound closes, as it is even now closing. Stand back, fool, your master goes; but he shall come again to you, and you shall scream and shrivel and die in that coming. Kull, I salute you.”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Le Chat de Delcardes",
+                    "en": "Delcardes Cat",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/thulsa-doom.png",
+            "imageHD": "data/tiles/img/thulsa-doom_hd.png",
+            "image_location": {"x":47, "y":50},
+            "image_zoom": 112,
+            "model": "thulsa-doom",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "thulsa-doom-2",
+            "name": {
+                "fr": "Thulsa Doom",
+                "en": "Thulsa Doom",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "colors": ["gray"],
+            "movement": "3",
+            "defense": "3",
+            "attacktype": "contact",
+            "dices": { "0": "redreroll", "1": "red", "2": "none", "3": "none" },
+            "skills": { "0": "miscellaneous/jinx", "1": "magic/spell_caster", "2": "space", "3": "attack/attack_from_beyond" },
+
+            "quote": {
+                "text": {
+                    "fr": "L’être à tête de crâne éclata de rire. « Il y a une éternité de cela, je suis mort comme meurent les hommes ! » se vanta-t-il. « Non, je passerai dans quelque autre sphère d’existence lorsque mon heure sera venue, pas avant. Je ne saigne pas car mes veines sont vides, et je ne sens qu’un léger frisson, qui disparaîtra lorsque la blessure se refermera, ce qu’elle a déjà commencé à faire. Reculez, imbéciles, votre maître s’en va, mais il reviendra. Quand ce jour viendra, vous hurlerez, vous vous ratatinerez et vous mourrez ! Kull, je te salue ! »",
+                    "en": "The skull-faced one laughed. “Ages ago I died as men did!” he taunted. “Nay, I shall pass to some other sphere when my time comes, not before. I bleed not, for my veins are empty, and I feel only a slight coldness which shall pass when the wound closes, as it is even now closing. Stand back, fool, your master goes; but he shall come again to you, and you shall scream and shrivel and die in that coming. Kull, I salute you.”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Le Chat de Delcardes",
+                    "en": "Delcardes Cat",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+
+            "image": "data/tiles/img/thulsa-doom.png",
+            "imageHD": "data/tiles/img/thulsa-doom_hd.png",
+            "image_location": {"x":47, "y":50},
+            "image_zoom": 112,
+            "model": "thulsa-doom",
+            "origins": ["conqueror"]
         }
     ]
 }

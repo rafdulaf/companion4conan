@@ -2418,6 +2418,432 @@
 
             "image": "data/equipments/img/information.png",
             "origins": ["campaignbook"]
+        },
+
+        {
+            "id": "anchor",
+            "title": {
+                "fr": "Ancre",
+                "en": "Anchor",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "5",
+            "skills": {"0": "attack/circular_strike", "1": "none"},
+            "skillsatbottom": true,
+
+            "melee": { "0": "red", "1": "orangereroll" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/anchor.png",
+            "imagelocation": {"x": "50", "y": "47"},
+            "imagezoom": "90",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "atlantean_axe",
+            "title": {
+                "fr": "Hache Atlante",
+                "en": "Atlantean Axe",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "3",
+
+            "melee": { "0": "redreroll", "1": "none" },
+            "ranged": { "0": "redreroll", "1": "none", "throwable": true },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "yellow", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/atlantean_axe.png",
+            "imagelocation": {"x": "72", "y": "48"},
+            "imagezoom": "59",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "cutlass",
+            "title": {
+                "fr": "Coutelas",
+                "en": "Cutlass",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "1",
+
+            "melee": { "0": "orangereroll", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "yellow", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/cutlass.png",
+            "imagelocation": {"x": "71", "y": "46"},
+            "imagezoom": "51",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "akbitanan_sword",
+            "title": {
+                "fr": "épée Akbitanienne",
+                "en": "Akbitanan Sword",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "2",
+
+            "melee": { "0": "yellowreroll", "1": "yellowreroll" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "yellowreroll", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/akbitanan_sword.png",
+            "imagelocation": {"x": "50", "y": "32"},
+            "imagezoom": "85",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "khitan_staff",
+            "title": {
+                "fr": "Bâton Khitien",
+                "en": "Khitan Staff",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "3",
+            "skills": {"0": "attack/reach", "1": "none"},
+            "skillsatbottom": true,
+
+            "melee": { "0": "red", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/khitan_staff.png",
+            "imagelocation": {"x": "63", "y": "60"},
+            "imagezoom": "73",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "net",
+            "title": {
+                "fr": "Filet",
+                "en": "Net",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "1",
+            "skills": {"0": "movement/web_projection", "1": "none"},
+            "skillsatbottom": true,
+
+            "melee": { "0": "none", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": true },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+            
+            "text": {
+                "fr": "Le Héros peut dépenser 1 {gem_blue} en attaque à distance pour effectuer une Projection de toile.",
+                "en": "A Hero may place 1 {gem_blue} in their Ranged Attack space to make a web projection attack.",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "image": "data/equipments/img/net.png",
+            "imagelocation": {"x": "50", "y": "36"},
+            "imagezoom": "82",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "heavy_spear",
+            "title": {
+                "fr": "Lance Lourde",
+                "en": "Heavy Spear",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "3",
+
+            "melee": { "0": "red", "1": "none" },
+            "ranged": { "0": "red", "1": "none", "throwable": true },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/heavy_spear.png",
+            "imagelocation": {"x": "72", "y": "56"},
+            "imagezoom": "56",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "map",
+            "title": {
+                "fr": "Carte",
+                "en": "Map",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "0",
+
+            "melee": { "0": "none", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/map.png",
+            "imagelocation": {"x": "50", "y": "50"},
+            "imagezoom": "84",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "spiked_shield",
+            "title": {
+                "fr": "Bouclier à Pointe",
+                "en": "Spiked Shield",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "2",
+            "skills": {"0": "attack/counterattack", "1": "none"},
+            "skillsatbottom": true,
+
+            "melee": { "0": "none", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "yellow", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/spiked_shield.png",
+            "imagelocation": {"x": "50", "y": "41"},
+            "imagezoom": "84",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "zamorian_chain",
+            "title": {
+                "fr": "Chaîne Zamorienne",
+                "en": "Zamorian Chain",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "1",
+            "skills": {"0": "attack/constriction", "1": "none"},
+            "skillsatbottom": true,
+
+            "melee": { "0": "yellow", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/zamorian_chain.png",
+            "imagelocation": {"x": "50", "y": "52"},
+            "imagezoom": "80",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "nemedian_poniard",
+            "title": {
+                "fr": "Poignard Némédien",
+                "en": "Nemedian Poniard",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "1",
+            "skills": {"0": "attack/ambidextrous", "1": "none"},
+            "skillsatbottom": true,
+
+            "melee": { "0": "yellow", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/nemedian_poniard.png",
+            "imagelocation": {"x": "64", "y": "49"},
+            "imagezoom": "59",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "spiked_mace",
+            "title": {
+                "fr": "Masse à Pointes",
+                "en": "Spiked Mace",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "2",
+
+            "melee": { "0": "orange", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/spiked_mace.png",
+            "imagelocation": {"x": "58", "y": "49"},
+            "imagezoom": "55",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "caestus",
+            "title": {
+                "fr": "Ceste",
+                "en": "Caestus",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "0",
+
+            "melee": { "0": "none", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "text": {
+                "fr": "Un Héros portant le Ceste ne subit pas de pénalité s’il est désarmé.",
+                "en": "A Hero wearing the Caestus does not suffer the effects of the unarmed penalty.",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "image": "data/equipments/img/caestus.png",
+            "imagelocation": {"x": "50", "y": "36"},
+            "imagezoom": "84",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "dagons_circlet",
+            "title": {
+                "fr": "Bracelet de Dagon",
+                "en": "Dagon's Circlet",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "0",
+
+            "melee": { "0": "none", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "text": {
+                "fr": "Augmentez l’indice de surchage de chaque compétence de 1.",
+                "en": "Increase encumbrance limit by 1 for all skills.",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "image": "data/equipments/img/dagons_circlet.png",
+            "imagelocation": {"x": "50", "y": "35"},
+            "imagezoom": "75",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "mantle_of_gullah",
+            "title": {
+                "fr": "Manteau de Gullah",
+                "en": "Mantle of Gullah",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "3",
+
+            "melee": { "0": "none", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "orange", "1": "none" },
+
+            "text": {
+                "fr": "Regagnez 1 {gem_blue} supplémentaire lorsque vous êtes en récupération.",
+                "en": "Recover 1 extra {gem_blue} when in cautious stance",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "image": "data/equipments/img/mantle_of_gullah.png",
+            "imagelocation": {"x": "53", "y": "44"},
+            "imagezoom": "75",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "stygian_cloak",
+            "title": {
+                "fr": "Cape Stygienne",
+                "en": "Stygian Cloak",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "1",
+
+            "melee": { "0": "none", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "yellow", "1": "none" },
+
+            "text": {
+                "fr": "Regagnez 1 {gem_blue} supplémentaire lorsque vous êtes actif.",
+                "en": "Recover 1 extra {gem_blue} when in aggressive stance",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "image": "data/equipments/img/stygian_cloak.png",
+            "imagelocation": {"x": "50", "y": "39"},
+            "imagezoom": "76",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "lockpick",
+            "title": {
+                "fr": "Outil de Crochetage",
+                "en": "Lockpick",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "1",
+
+            "melee": { "0": "none", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "none", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "text": {
+                "fr": "Placez 1 {gem_red} sur l’outil de crochetage. Un Héros peut utiliser cette gemme pour crocheter des serrures. Pendant les phases de début et de fin      \ndu tour des Héros, remettez      \nla {gem_red} sur la carte.           ",
+                "en": "Place 1 {gem_red} on the lockpick.\nA hero may use this gem to pick locks. During the start and end phase of the heroes’ turn, move the {gem_red} to the card.",
+                "it": "TODO_TRANSLATE"
+            },
+
+            "image": "data/equipments/img/lockpick.png",
+            "imagelocation": {"x": "50", "y": "36"},
+            "imagezoom": "55",
+            "origins": ["conqueror"]
+        },
+
+        {
+            "id": "conans_great_sword",
+            "title": {
+                "fr": "Grande Épée de Conan",
+                "en": "Conan's Great Sword",
+                "it": "TODO_TRANSLATE"
+            },
+            "encumbrance": "3",
+
+            "melee": { "0": "redreroll", "1": "none" },
+            "ranged": { "0": "none", "1": "none", "throwable": false },
+            "manipulation": { "0": "none", "1": "none", "explosive": false },
+            "active": { "0": "orange", "1": "none" },
+            "passive": { "0": "none", "1": "none" },
+
+            "image": "data/equipments/img/conans_great_sword.png",
+            "imagelocation": {"x": "66", "y": "54"},
+            "imagezoom": "42",
+            "origins": ["conqueror"]
         }
     ]
 }

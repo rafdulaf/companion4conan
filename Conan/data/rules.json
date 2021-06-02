@@ -37,6 +37,22 @@
                 "it": 14
             },
             "origins": ["corebox"]
+        },
+        {
+            "id": "tomeofskelos",
+            "title": {
+                "fr": "Tome de Skelos",
+                "en": "Tome of Skelos",
+                "it": "Libro di Skelos"
+            },
+            "download": {
+            },
+            "pages": {
+                "fr": 12,
+                "en": 11,
+                "it": 12
+            },
+            "origins": ["conqueror"]
         }
     ]
 }

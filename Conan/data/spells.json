@@ -2746,6 +2746,252 @@
                 "en": { "textSize": 125, "textInter": 68 },
                 "it": { "textSize": 115, "textInter": 72 }
             }
+        },
+
+        {
+            "id": "rending_the_veil",
+            "title": {
+                "fr": "Déchirer le Voile",
+                "en": "Rending the Veil",
+                "it": "TODO_TRANSLATE"
+            },
+            "text": {
+                "fr": "Choisissez un ennemi vers lequel il n’existe pas de ligne de vue. Considérez qu’il existe désormais une ligne de vue entre la zone de cet ennemi et le lanceur de sort, ou une unité alliée dans la ligne de vue du lanceur de sort, pour une action.",
+                "en": "Choose an enemy that is not in line of sight.\n\nThat enemy’s area is considered in line of sight of the caster, or an allied unit in the caster’s line of sight, for one action.",
+                "it": "TODO_TRANSLATE"
+            },
+            "clarification": null,
+
+            "cost": "2",
+            "saturation": "2",
+            "explosion": false,
+            "reaction": false,
+
+            "forOverlord": true,
+            "forHeroes": true,
+
+            "forSkill": false,
+            "forAttack": false,
+            "forDefense": false,
+            "forFight": false,
+            "forManipulation": false,
+            "forMove": false,
+            "forRange": true,
+            "forEnergy": false,
+
+            "image": "data/spells/img/rending_the_veil.png",
+            "origins": ["conqueror"],
+
+            "textStyle": {
+                "fr": { "textSize": 123, "textInter": 70 },
+                "en": { "textSize": 138, "textInter": 68 },
+                "it": { "textSize": 115, "textInter": 72 }
+            }
+        },
+
+        {
+            "id": "whirlwind",
+            "title": {
+                "fr": "Tourbillon",
+                "en": "Whirlwind",
+                "it": "TODO_TRANSLATE"
+            },
+            "text": {
+                "fr": "Attaquez une zone en ligne de vue, lancez {dice_orange}{dice_orange} et ajoutez un {dice_yellow} pour chaque unité dans cette zone. Vous pouvez répartir les résultats de l’attaque entre les cibles de votre choix dans la zone. Celles-ci ne bénéfi cient pas de Sous Protection. Les cibles choisies peuvent se défendre contre cette attaque",
+                "en": "Attack an area in your line of sight, roll {dice_orange}{dice_orange} and add one {dice_yellow} for each unit in that area. You may assign the attack results among any number of targets in the area that do not benefit from Protected. The chosen targets may defend against this attack.",
+                "it": "TODO_TRANSLATE"
+            },
+            "clarification": null,
+
+            "cost": "3",
+            "saturation": "3",
+            "explosion": false,
+            "reaction": false,
+
+            "forOverlord": true,
+            "forHeroes": true,
+
+            "forSkill": false,
+            "forAttack": true,
+            "forDefense": false,
+            "forFight": false,
+            "forManipulation": false,
+            "forMove": false,
+            "forRange": true,
+            "forEnergy": false,
+
+            "image": "data/spells/img/whirlwind.png",
+            "origins": ["conqueror"],
+
+            "textStyle": {
+                "fr": { "textSize": 110, "textInter": 70 },
+                "en": { "textSize": 118, "textInter": 71 },
+                "it": { "textSize": 115, "textInter": 72 }
+            }
+        },
+
+        {
+            "id": "ymirs_retribution",
+            "title": {
+                "fr": "Châtiment d’Ymir",
+                "en": "Ymir’s Retribution",
+                "it": "TODO_TRANSLATE"
+            },
+            "text": {
+                "fr": "Attaquez un personnage dans votre ligne de vue et lancez {dice_red}{dice_red}. Si la puissance de l’attaque est supérieure à la puissance de la défense, le défenseur subit autant de dégâts que la différence.",
+                "en": "Attack a character in your line of sight, roll {dice_red}{dice_red}. If the attack power is greater than the defense power, the defender suffers damage equal to the difference.",
+                "it": "TODO_TRANSLATE"
+            },
+            "clarification": null,
+
+            "cost": "2",
+            "saturation": "2",
+            "explosion": true,
+            "reaction": false,
+
+            "forOverlord": true,
+            "forHeroes": true,
+
+            "forSkill": false,
+            "forAttack": true,
+            "forDefense": false,
+            "forFight": false,
+            "forManipulation": false,
+            "forMove": false,
+            "forRange": true,
+            "forEnergy": false,
+
+            "image": "data/spells/img/ymirs_retribution.png",
+            "origins": ["conqueror"],
+
+            "textStyle": {
+                "fr": { "textSize": 129, "textInter": 73 },
+                "en": { "textSize": 128, "textInter": 74 },
+                "it": { "textSize": 115, "textInter": 72 }
+            }
+        },
+
+        {
+            "id": "summon_demon",
+            "title": {
+                "fr": "Invocation de Démon",
+                "en": "Summon Demon",
+                "it": "TODO_TRANSLATE"
+            },
+            "text": {
+                "fr": "Placez un Démon (indiqué dans le scénario) dans la zone du lanceur de sort. Le Démon disparaît à la fin du tour, à moins que le lanceur de sort ne laisse les gemmes sur cette carte de sort. Le lanceur de sort peut déplacer les gemmes en zone de Fatigue à tout moment pour renvoyer le démon. Le lanceur de sort peut contrôler les tuiles ainsi invoquées comme s’il avait la compétence Commandement",
+                "en": "Place a Demon (as specified in the scenario) in the caster’s area. The Demon disappears at the end of the round unless the caster leaves the gems on this spell card. The caster may move the gems to their Fatigue zone at any time to dismiss the demon. The caster may control tiles summoned in this manner as if they had the Leadership skill.",
+                "it": "TODO_TRANSLATE"
+            },
+            "clarification": null,
+
+            "cost": "2",
+            "saturation": "2",
+            "explosion": false,
+            "reaction": false,
+
+            "forOverlord": true,
+            "forHeroes": true,
+
+            "forSkill": false,
+            "forAttack": false,
+            "forDefense": false,
+            "forFight": false,
+            "forManipulation": false,
+            "forMove": false,
+            "forRange": false,
+            "forEnergy": false,
+
+            "image": "data/spells/img/summon_demon.png",
+            "origins": ["conqueror"],
+
+            "textStyle": {
+                "fr": { "textSize": 102, "textInter": 63 },
+                "en": { "textSize": 107, "textInter": 68 },
+                "it": { "textSize": 115, "textInter": 72 }
+            }
+        },
+
+        {
+            "id": "yogs_hunger",
+            "title": {
+                "fr": "Faim de Yog",
+                "en": "Yog’s Hunger",
+                "it": "TODO_TRANSLATE"
+            },
+            "text": {
+                "fr": "Attaquez un personnage en ligne de vue et lancez {dice_orange}.\nCe personnage ne peut pas se défendre contre cette attaque et subit des dégâts correspondants à la puissance de l’attaque.",
+                "en": "Attack a character in your line of sight; roll {dice_orange}.\n\nThat character cannot defend against this attack, and suffers damage equal to the attack power.",
+                "it": "TODO_TRANSLATE"
+            },
+            "clarification": null,
+
+            "cost": "2",
+            "saturation": "2",
+            "explosion": false,
+            "reaction": false,
+
+            "forOverlord": true,
+            "forHeroes": true,
+
+            "forSkill": false,
+            "forAttack": true,
+            "forDefense": false,
+            "forFight": false,
+            "forManipulation": false,
+            "forMove": false,
+            "forRange": true,
+            "forEnergy": false,
+
+            "image": "data/spells/img/yogs_hunger.png",
+            "origins": ["conqueror"],
+
+            "textStyle": {
+                "fr": { "textSize": 128, "textInter": 78 },
+                "en": { "textSize": 126, "textInter": 75 },
+                "it": { "textSize": 115, "textInter": 72 }
+            }
+        },
+
+        {
+            "id": "changing_destiny",
+            "title": {
+                "fr": "Destin changeant",
+                "en": "Changing Destiny",
+                "it": "Destino mutevole"
+            },
+            "text": {
+                "fr": "Ciblez une figurine avec ligne de vue.\nS'il s'agit d'un Héros, il est obligé de se mettre en récupération à son prochain tour. S'il s'agit d'une figurine de l'Overlord, il ne peut pas activer la tuile correspondante.",
+                "en": "Choose a character in your line of sight. If the character is a hero, the hero must choose to be cautious during the next Stance phase. If the character is a unit, their tile cannot be activated during the next Overlord turn.",
+                "it": "Scegli un personaggio in linea di vista.\nSe è un Eroe, egli è obbligato a essere Cauto nella sua prossima fase di Atteggiamento. Se il personaggio non è un Eroe, l'Overlord non può attivare la tessera corrispondente al modello scelto."
+            },
+            "clarification": null,
+
+            "cost": "4",
+            "saturation": "4",
+            "explosion": false,
+            "reaction": false,
+
+            "forOverlord": true,
+            "forHeroes": true,
+
+            "forSkill": false,
+            "forAttack": false,
+            "forDefense": false,
+            "forFight": false,
+            "forManipulation": false,
+            "forMove": false,
+            "forRange": true,
+            "forEnergy": false,
+
+            "image": "data/spells/img/changing_destiny.png",
+            "origins": ["conqueror"],
+
+            "textStyle": {
+                "fr": { "textSize": 140, "textInter": 66 },
+                "en": { "textSize": 140, "textInter": 66 },
+                "it": { "textSize": 130, "textInter": 64 }
+            }
         }
     ]
 }

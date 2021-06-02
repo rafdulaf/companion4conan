@@ -101,6 +101,32 @@
                 "en": "King content",
                 "it": "Contentuto King"
             }
+        }, {
+            "id": "conqueror",
+            "type": "corebox",
+            "title": {
+                "fr": "Conan le Conquérant",
+                "en": "Conan the Conqueror",
+                "it": "TODO_TRANSLATE"
+            },
+            "short": {
+                "fr": "Boîte Conquérant",
+                "en": "Conqueror box",
+                "it": "TODO_TRANSLATE"
+            }
+        }, {
+            "id": "conqueror-sg",
+            "type": "corebox",
+            "title": {
+                "fr": "Récompenses \"Conquérant\" (2020)",
+                "en": "\"Conqueror\" Stretch goals (2020)",
+                "it": "TODO_TRANSLATE"
+            },
+            "short": {
+                "fr": "Réc. Conqueror",
+                "en": "Conqueror SG",
+                "it": "TODO_TRANSLATE"
+            }
         },
 
         {
@@ -141,6 +167,32 @@
                 "fr": "Khitaï",
                 "en": "Khitaï",
                 "it": "Khitai"
+            }
+        }, {
+            "id": "shadow-kingdom",
+            "type": "thematic",
+            "title": {
+                "fr": "Royaume des Chimères",
+                "en": "The Shadow Kingdom",
+                "it": "TODO_TRANSLATE"
+            },
+            "short": {
+                "fr": "Royaume Chimères",
+                "en": "Shadow Kingdom",
+                "it": "TODO_TRANSLATE"
+            }
+        }, {
+            "id": "red-brotherhood",
+            "type": "thematic",
+            "title": {
+                "fr": "Contes de la Fraternité Rouge",
+                "en": "Tales of the Red Brotherhood",
+                "it": "TODO_TRANSLATE"
+            },
+            "short": {
+                "fr": "Fraternité Rouge",
+                "en": "Red Brotherhood",
+                "it": "TODO_TRANSLATE"
             }
         },
 
@@ -315,6 +367,19 @@
                 "en": "Book of Set",
                 "it": "Libro di Set"
             }
+        }, {
+            "id": "tomeofskelos",
+            "type": "books",
+            "title": {
+                "fr": "Tome de Skelos",
+                "en": "Tome of Skelos",
+                "it": "Libro di Skelos"
+            },
+            "short": {
+                "fr": "Tome de Skelos",
+                "en": "Tome of Skelos",
+                "it": "Libro di Skelos"
+            }
         },
 
         {
@@ -383,6 +448,19 @@
                 "fr": "Pack aventure",
                 "en": "Adventure pack",
                 "it": "Arredi"
+            }
+        }, {
+            "id": "hidden-chambers",
+            "type": "misc",
+            "title": {
+                "fr": "Chambres Secrètes",
+                "en": "Hidden Chambers",
+                "it": "TODO_TRANSLATE"
+            },
+            "short": {
+                "fr": "Chambres Secrètes",
+                "en": "Hidden Chambers",
+                "it": "TODO_TRANSLATE"
             }
         }, {
             "id": "monolith-site",

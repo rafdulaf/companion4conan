@@ -1789,6 +1789,41 @@
         },
 
         {
+            "id": "octavia",
+            "name": {
+                "fr": "Octavia",
+                "en": "Octavia",
+                "it": "Octavia"
+            },
+            "class": [{ "type": "rogue" }],
+
+            "gems": 10,
+            "encumbrance": [9, 7, 9],
+
+            "melee": { "dice": "yellowreroll", "exertion": 4 },
+            "ranged": { "dice": "orange", "exertion": 4 },
+            "defense": { "dice": "yellowreroll" },
+            "movement": { "base": "2", "exertion": 3 },
+            "manipulation": { "dice": "orangereroll", "exertion": 3 },
+
+            "skills": [
+                { "id": "ambidextrous", "exertion": 5 },
+                { "id": "feline_grace", "exertion": 5 },
+                { "id": "lock_picking", "exertion": 6 },
+                { "id": "leadership" },
+                { "id": "support" },
+                { "id": "protected" }
+            ],
+
+            "image": "data/heroes/img/princess.png",
+            "imageHD": "data/heroes/img/princess_hd.png",
+            "image_zoom": "93",
+            "image_location": { "x": "4", "y": "56" },
+            "model": "princess",
+            "origins": ["conqueror"]
+        },
+
+        {
             "id": "othryades",
             "name": {
                 "fr": "Othryades",
@@ -2214,6 +2249,498 @@
             "image_location": { "x": "0", "y": "70" },
             "model": "odysseus",
             "origins": ["corinthia"]
+        },
+        
+        {
+            "id": "conan-the-pirate",
+            "name": {
+                "fr": "Conan le Pirate",
+                "en": "Conan the Pirate",
+                "it": "TODO_TRANSLATE"
+            },
+            "quote": {
+                "text": {
+                    "fr": "L’eau s’écoulait en ruisselant de ses épaules, glissant le long de ses bras puissants. Son unique vêtement - des culottes de soie rouge - était trempé, tout comme sa large ceinture à boucle d’or et l’épée gainée dans le fourreau qu’elle soutenait. Tandis qu’il finissait d’escalader ainsi la lisse, les rayons du soleil levant découpèrent sa silhouette, le faisant ressembler à une grande statue de bronze. Il passa ses doigts dans sa sombre crinière ruisselante d’eau et ses yeux bleus brillèrent comme ils se posaient sur la jeune fille.",
+                    "en": "Water ran in rivulets from his great shoulders and down his heavy arms. His single garment—a pair of bright crimson silk breeks— was soaking wet, as was his broad gold-buckled girdle and the sheathed sword it supported. As he stood at the rail, the rising sun etched him like a great bronze statue. He ran his fingers through his streaming black mane, and his blue eyes lit as they rested on the girl.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Le Bassin de l’homme noir",
+                    "en": "Pool of the Black One",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+            "class": [{ "type": "warrior" }],
+
+            "gems": 11,
+            "encumbrance": [12, 8, 10],
+
+            "melee": { "dice": "red", "exertion": 5 },
+            "ranged": { "dice": "yellowreroll", "exertion": 4 },
+            "defense": { "dice": "orange" },
+            "movement": { "base": 3, "exertion": 4 },
+            "manipulation": { "dice": "orangereroll", "exertion": 3 },
+
+            "skills": [
+                { "id": "swimming", "exertion": 6 },
+                { "id": "leap", "exertion": 8 },
+                { "id": "climb", "exertion": 9 },
+                { "id": "wall_wrecker", "exertion": 10 },
+                { "id": "leadership" },
+                { "id": "circular_strike" }
+            ],
+
+            "image": "data/heroes/img/conan-the-pirate.png",
+            "imageHD": "data/heroes/img/conan-the-pirate_hd.png",
+            "image_zoom": "118",
+            "image_location": { "x": "3", "y": "56" },
+            "model": "conan-the-pirate",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "zenobia",
+            "name": {
+                "fr": "Zenobia",
+                "en": "Zenobia",
+                "it": "Zenobia"
+            },
+            "quote": {
+                "text": {
+                    "fr": "Mais je ne suis pas une poupée fardée, je suis un être de chair et de sang. Je respire, je connais la haine, la peur, la joie et l’amour. Et je vous aime, roi Conan, depuis ce jour où je vous ai vu dans les rues de Belverus, avançant à la tête de vos chevaliers, quand vous avez rendu visite au roi Nimed, il y a des années de cela. Mon cœur a bondi dans ma poitrine et a menacé de s’envoler pour venir tomber dans la poussière de la rue sous les sabots de votre cheval. »\nSes traits s’empourpraient au fur et à mesure qu’elle parlait, mais ses yeux noirs ne vacillèrent pas. Conan ne répondit pas toute de suite. Aussi sauvage, passionnée et indomptée soit-elle, il aurait fallu être une brute insondable pour ne pas être ému, et même quelque peu intimidé et émerveillé, par cette femme qui mettait son âme à nu.",
+                    "en": "But I am no painted toy; I am of flesh and blood. I breathe, hate, fear, rejoice and love. And I have loved you, King Conan, ever since I saw you riding at the head of your knights along the streets of Belverus when you visited King Nimed, years ago. My heart tugged at its strings to leap from my bosom and fall in the dust of the street under your horse’s hoofs.”\nColor flooded her countenance as she spoke, but her dark eyes did not waver. Conan did not at once reply; wild and passionate and untamed he was, yet any but the most brutish of men must be touched with a certain awe or wonder at the baring of a woman’s naked soul.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "L’Heure du dragon",
+                    "en": "Hour of the Dragon",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+            "class": [{ "type": "rogue" }],
+
+            "gems": 10,
+            "encumbrance": [10, 6, 9],
+
+            "melee": { "dice": "yellowreroll", "exertion": 4 },
+            "ranged": { "dice": "yellowreroll", "exertion": 4 },
+            "defense": { "dice": "orange" },
+            "movement": { "base": 3, "exertion": 4 },
+            "manipulation": { "dice": "orangereroll", "exertion": 3 },
+
+            "skills": [
+                { "id": "evasive", "exertion": 5 },
+                { "id": "concentration", "exertion": 5 },
+                { "id": "leap", "exertion": 6 },
+                { "id": "leadership" },
+                { "id": "support" },
+                { "id": "lock_picking" },
+                { "id": "poison" }
+            ],
+
+            "image": "data/heroes/img/zenobia.png",
+            "imageHD": "data/heroes/img/zenobia_hd.png",
+            "image_zoom": "123",
+            "image_location": { "x": "-2", "y": "51" },
+            "model": "zenobia",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "gorm",
+            "name": {
+                "fr": "Gorm",
+                "en": "Gorm",
+                "it": "Gorm"
+            },
+            "quote": {
+                "text": {
+                    "fr": "Gorm avait derrière lui un héritage de cent mille ans de sauvagerie hurlante ; \nle pas feutré du tigre était le sien, la poigne du gorille était celle de ses mains aux ongles noircis, le feu qui couve dans les yeux du léopard brûlait au fond des siens. \nGorm, fort de cette nouvelle activité et de ses connaissances accrues, commença à exercer sa domination sur les autres clans, en partie par la guerre, en partie par la ruse et la diplomatie, art dans lequel il surpassait tous les autres barbares.",
+                    "en": "Gorm had behind him a heritage of a hundred thousand years of screaming savagery—the pad of the tiger was in his stealthy step, the grip of the gorilla in his black-nailed hands, the fire that burns in a leopard’s eyes burned in his.\nAnd Gorm, by virtue of this new craft, began to assert his dominance over other clans, partly by war, partly by craft and diplomacy, in which latter art he excelled all other barbarians.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "L’Âge hyborien",
+                    "en": "The Hyborian Age",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+            "class": [{ "type": "warrior" }],
+
+            "gems": 11,
+            "encumbrance": [12, 8, 10],
+
+            "melee": { "dice": "red", "exertion": 4 },
+            "ranged": { "dice": "orange", "exertion": 4 },
+            "defense": { "dice": "yellowreroll" },
+            "movement": { "base": 3, "exertion": 4 },
+            "manipulation": { "dice": "yellowreroll", "exertion": 4 },
+
+            "skills": [
+                { "id": "swimming", "exertion": 6 },
+                { "id": "leap", "exertion": 8 },
+                { "id": "ambidextrous", "exertion": 8 },
+                { "id": "climb", "exertion": 8 },
+                { "id": "wall_wrecker", "exertion": 10 },
+                { "id": "leadership" }
+            ],
+
+            "image": "data/heroes/img/gorm.png",
+            "imageHD": "data/heroes/img/gorm_hd.png",
+            "image_zoom": "91",
+            "image_location": { "x": "5", "y": "53" },
+            "model": "gorm",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "xaltotun",
+            "name": {
+                "fr": "Xaltotun",
+                "en": "Xaltotun",
+                "it": "Xaltotun"
+            },
+            "quote": {
+                "text": {
+                    "fr": "Éclairée de la sorte, la silhouette enfoncée dans le fauteuil d’argent en forme de trône et qui lui faisait face paraissait irréelle et fantastique. Sa légère robe de soie accentuait cette impression de flou dans ses contours. Mais ses traits étaient, eux, parfaitement distincts, bien plus qu’ils n’auraient dû l’être dans cette lumière incertaine. C’était comme si un nimbe entourait cette tête, faisant ressortir nettement ce visage barbu, qui devenait l’unique réalité tangible et distincte dans cette pièce mystique et spectrale. Son visage était magnifique et ses traits bien découpés étaient empreints d’une beauté classique. Il y avait, en effet, quelque chose d’inquiétant qui émanait de cette apparence paisible et tranquille, quelque chose qui dépassait l’entendement, une certitude profonde au-delà du savoir humain.",
+                    "en": "In that light the figure seated in a silver, thronelike chair before him seemed unreal and fantastic, with an illusiveness of outline that was heightened by a filmy silken robe. But the features were distinct—unnaturally so in that uncertain light. It was almost as if a weird nimbus played about the man’s head, casting the bearded face into bold relief, so that it was the only definite and distinct reality in that mystic, ghostly chamber. It was a magnificent face, with strongly chiseled features of classical beauty. There was, indeed, something disquieting about the calm tranquility of its aspect, a suggestion of more than human knowledge, of a profound certitude beyond human assurance.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "L’Heure du dragon",
+                    "en": "Hour of the Dragon",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+            "class": [{ "type": "sorcerer" }],
+
+            "gems": 10,
+            "encumbrance": [8, 6, 7],
+
+            "melee": { "dice": "orange", "exertion": 3 },
+            "ranged": { "dice": "orange", "exertion": 4 },
+            "defense": { "dice": "orange" },
+            "movement": { "base": 2, "exertion": 4 },
+            "manipulation": { "dice": "yellowreroll", "exertion": 4 },
+
+            "skills": [
+                { "id": "feline_grace", "exertion": 5 },
+                { "id": "concentration", "exertion": 6 },
+                { "id": "attack_from_beyond" },
+                { "id": "spell_caster" },
+                { "id": "protected" },
+                { "id": "leadership" }
+            ],
+
+            "image": "data/heroes/img/xaltotun.png",
+            "imageHD": "data/heroes/img/xaltotun_hd.png",
+            "image_zoom": "100",
+            "image_location": { "x": "2.5", "y": "52" },
+            "model": "xaltotun",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "nyaga",
+            "name": {
+                "fr": "N'Yaga",
+                "en": "N'Yaga",
+                "it": "N'Yaga"
+            },
+            "quote": {
+                "text": {
+                    "fr": "Ho, N’Yaga ! » (Sa voix vibra comme la corde d’un arc.) « Apporte des herbes et soigne les blessures de ton maître !\nVous autres, transbordez le butin sans perdre de temps et détachez les grappins. »\nTandis que Conan était assis, le dos au bastingage du gaillard d’arrière et que le vieux chaman s’occupait de ses blessures aux mains et aux membres, la cargaison de l’infortuné Argus était rapidement portée à bord de la Tigresse et entreposée dans les petites cabines aménagées sous le pont.",
+                    "en": "Ho, N’Yaga!” her voice twanged like a bowstring.\n“Fetch herbs and dress your master’s wounds! The rest of you bring aboard the plunder and cast off.”\nAs Conan sat with his back against the poop-rail, while the old shaman attended to the cuts on his hands and limbs, the cargo of the ill-fated Argus was quickly shifted aboard the Tigress and stored in small cabins below deck.",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "La Reine de la Côte Noire",
+                    "en": "Queen of the Black Coast",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+            "class": [{ "type": "sorcerer" }],
+
+            "gems": 10,
+            "encumbrance": [8, 5, 7],
+
+            "melee": { "dice": "yellow", "exertion": 4 },
+            "ranged": { "dice": "yellowreroll", "exertion": 3 },
+            "defense": { "dice": "orange" },
+            "movement": { "base": 2, "exertion": 2 },
+            "manipulation": { "dice": "orangereroll", "exertion": 3 },
+
+            "skills": [
+                { "id": "leap", "exertion": 5 },
+                { "id": "climb", "exertion": 5 },
+                { "id": "concentration", "exertion": 5 },
+                { "id": "spell_caster", "exertion": 5 }
+            ],
+
+            "image": "data/heroes/img/nyaga.png",
+            "imageHD": "data/heroes/img/nyaga_hd.png",
+            "image_zoom": "110",
+            "image_location": { "x": "-1", "y": "45" },
+            "model": "nyaga",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "nameless-horror",
+            "name": {
+                "fr": "Horreur sans nom",
+                "en": "Nameless Horror",
+                "it": "TODO_TRANSLATE"
+            },
+            "class": [{ "type": "warrior", "not-recommanded": true }],
+
+            "gems": 11,
+            "encumbrance": [13, 10, 12],
+
+            "melee": { "dice": "redreroll", "exertion": 4 },
+            "ranged": { "dice": "yellow", "exertion": 0 },
+            "defense": { "dice": "red" },
+            "movement": { "base": 2, "exertion": 4 },
+            "manipulation": { "dice": "yellow", "exertion": 3 },
+
+            "skills": [
+                { "id": "flying", "exertion": 8 },
+                { "id": "swimming", "exertion": 8 },
+                { "id": "constriction", "exertion": 9 },
+                { "id": "intangible", "exertion": 10 },
+                { "id": "reach" },
+                { "id": "untouchable" },
+                { "id": "horror" }
+            ],
+
+            "image": "data/heroes/img/nameless-horror.png",
+            "imageHD": "data/heroes/img/nameless-horror_hd.png",
+            "image_zoom": "107",
+            "image_location": { "x": "-25", "y": "53" },
+            "model": "nameless-horror",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "winged-one",
+            "name": {
+                "fr": "Terreur Ailée",
+                "en": "Winged One",
+                "it": "TODO_TRANSLATE"
+            },
+            "class": [{ "type": "warrior", "not-recommanded": true }],
+
+            "gems": 11,
+            "encumbrance": [12, 10, 12],
+
+            "melee": { "dice": "redreroll", "exertion": 4 },
+            "ranged": { "dice": "yellowreroll", "exertion": 4 },
+            "defense": { "dice": "orangereroll" },
+            "movement": { "base": 3, "exertion": 2 },
+            "manipulation": { "dice": "orangereroll", "exertion": 3 },
+
+            "skills": [
+                { "id": "flying", "exertion": 9 },
+                { "id": "blocking", "exertion": 9 },
+                { "id": "untouchable", "exertion": 10 },
+                { "id": "circular_strike" },
+                { "id": "jinx" },
+                { "id": "alchemy" }
+            ],
+
+            "image": "data/heroes/img/winged-one.png",
+            "image_zoom": "97",
+            "image_location": { "x": "-26", "y": "49" },
+            "model": "winged-one",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "baal-pteor",
+            "name": {
+                "fr": "Baal Pteor",
+                "en": "Baal Pteor",
+                "it": "Baal-Pteor"
+            },
+            "quote": {
+                "text": {
+                    "fr": "Ta tête, Cimmérien ! » se moqua Baal-pteor. « Je la prendrai, de mes mains nues, pour la tordre sur tes épaules comme on tord le cou à un poulet ! C’est ainsi que les fils de Kosala offrent leurs sacrifices à Yajur ! Barbare, tu as face à toi un des Étrangleurs de Yota-pong ! J’ai été choisi alors que je n’étais qu’un jeune garçon par les prêtres de Yajur. Durant toutes mes premières années, mon enfance et mon adolescence, j’ai été entraîné dans l’art de tuer de mes mains nues.. car c’est seulement ainsi que se font les sacrifices. Yajur aime le sang et nous ne perdons ainsi aucune goutte de celui de nos victimes ! De mes mains, barbare, je vais te briser le cou ! »",
+                    "en": "Your head, Cimmerian!” taunted Baal-pteor. “I shall take it with my bare hands, twisting it from your shoulders as the head of a fowl is twisted! Thus the sons of Kosala offer sacrifice to Yajur. Barbarian, you look upon a strangler of Yotapong. I was chosen by the priests of Yajur in my infancy, and throughout childhood, boyhood and youth I trained in the art of slaying with the naked hands—for only thus are the sacrifices enacted. Yajur loves blood, and we waste not a drop from the victim’s veins...With my hands, barbarian, I shall break your neck!”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Les Mangeurs d’hommes de Zamboula",
+                    "en": "Shadows in Zamboula",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+            "class": [{ "type": "warrior" }],
+
+            "gems": 11,
+            "encumbrance": [12, 9, 11],
+
+            "melee": { "dice": "red", "exertion": 5 },
+            "ranged": { "dice": "orange", "exertion": 3 },
+            "defense": { "dice": "orange" },
+            "movement": { "base": 2, "exertion": 4 },
+            "manipulation": { "dice": "orange", "exertion": 3 },
+
+            "skills": [
+                { "id": "wall_wrecker", "exertion": 8 },
+                { "id": "constriction", "exertion": 10 },
+                { "id": "precision_strike" },
+                { "id": "bodyguard" }
+            ],
+
+            "image": "data/heroes/img/baal-pteor-2.png",
+            "imageHD": "data/heroes/img/baal-pteor-2_hd.png",
+            "image_zoom": "109",
+            "image_location": { "x": "6", "y": "56" },
+            "model": "baal-pteor",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "conan-the-conqueror",
+            "name": {
+                "fr": "Conan",
+                "en": "Conan",
+                "it": "TODO_TRANSLATE"
+            },
+            "subname": {
+                "fr": "le Conquérant",
+                "en": "the Conqueror",
+                "it": "TODO_TRANSLATE"
+            },
+            "quote": {
+                "text": {
+                    "fr": "Que sais-je du raffinement, des dorures, de l’artifice et du mensonge ? Moi, qui suis né dans une terre désolée et ai grandi à ciel ouvert. La langue subtile, la ruse du sophiste ne peuvent rien quand chante la grande épée ; Accourez et venez mourir, chiens - j’étais un homme avant d’être roi. »",
+                    "en": "What do I know of cultured ways, the gilt, the craft and the lie? I, who was born in a naked land and bred in the open sky. The subtle tongue, the sophist guile, they fail when the broadswords sing; Rush in and die, dogs—I was a man before I was a king.”",
+                    "it": "TODO_TRANSLATE"
+                },
+                "origin": {
+                    "fr": "Le Phénix sur l’épée",
+                    "en": "The Phoenix on the Sword",
+                    "it": "TODO_TRANSLATE"
+                },
+                "author": {
+                    "name": "Robert E. Howard"
+                }
+            },
+            "class": [{ "type": "warrior", "not-recommanded": true }],
+
+            "gems": 12,
+            "encumbrance": [12, 10, 11],
+
+            "melee": { "dice": "red", "exertion": 6 },
+            "ranged": { "dice": "orange", "exertion": 4 },
+            "defense": { "dice": "orange" },
+            "movement": { "base": 2, "exertion": 4 },
+            "manipulation": { "dice": "orange", "exertion": 3 },
+
+            "skills": [
+                { "id": "swimming", "exertion": 6 },
+                { "id": "leap", "exertion": 8 },
+                { "id": "climb", "exertion": 9 },
+                { "id": "leadership" },
+                { "id": "support" },
+                { "id": "circular_strike" }
+            ],
+
+            "image": "data/heroes/img/conan-the-conqueror.png",
+            "imageHD": "data/heroes/img/conan-the-conqueror_hd.png",
+            "image_zoom": "124",
+            "image_location": { "x": "4", "y": "50" },
+            "model": "conan-the-conqueror",
+            "origins": ["conqueror"]
+        },
+        
+        {
+            "id": "kull",
+            "name": {
+                "fr": "Roi Kull",
+                "en": "King Kull",
+                "it": "TODO_TRANSLATE"
+            },
+            "class": [{ "type": "warrior" }],
+
+            "gems": 12,
+            "encumbrance": [12, 8, 10],
+
+            "melee": { "dice": "orangereroll", "exertion": 5 },
+            "ranged": { "dice": "orange", "exertion": 4 },
+            "defense": { "dice": "orange" },
+            "movement": { "base": 2, "exertion": 4 },
+            "manipulation": { "dice": "yellowreroll", "exertion": 3 },
+
+            "skills": [
+                { "id": "swimming", "exertion": 6 },
+                { "id": "leap", "exertion": 8 },
+                { "id": "climb", "exertion": 9 },
+                { "id": "feline_grace" },
+                { "id": "leadership" },
+                { "id": "support" },
+                { "id": "precision_strike" }
+            ],
+
+            "image": "data/heroes/img/kull.png",
+            "imageHD": "data/heroes/img/kull_hd.png",
+            "image_zoom": "90",
+            "image_location": { "x": "2", "y": "55" },
+            "model": "kull",
+            "origins": ["shadow-kingdom"]
+        },
+        
+        {
+            "id": "brule",
+            "name": {
+                "fr": "Brule",
+                "en": "Brule",
+                "it": "Brule"
+            },
+            "class": [{ "type": "rogue" }],
+
+            "gems": 10,
+            "encumbrance": [10, 7, 8],
+
+            "melee": { "dice": "orangereroll", "exertion": 4 },
+            "ranged": { "dice": "redreroll", "exertion": 2 },
+            "defense": { "dice": "orange" },
+            "movement": { "base": 3, "exertion": 4 },
+            "manipulation": { "dice": "orangereroll", "exertion": 4 },
+
+            "skills": [
+                { "id": "evasive", "exertion": 5 },
+                { "id": "swimming", "exertion": 6 },
+                { "id": "climb", "exertion": 7 },
+                { "id": "leap", "exertion": 8 },
+                { "id": "concentration", "exertion": 8 }
+            ],
+
+            "image": "data/heroes/img/brule.png",
+            "imageHD": "data/heroes/img/brule_hd.png",
+            "image_zoom": "108",
+            "image_location": { "x": "11.5", "y": "51" },
+            "model": "brule",
+            "origins": ["shadow-kingdom"]
         }
     ]
 }
