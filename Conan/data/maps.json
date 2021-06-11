@@ -3617,24 +3617,24 @@
                         "title": {
                             "fr": "Meurtrières",
                             "en": "Wall Openings",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Feritoie"
                         },
                         "description": {
                             "fr": "Ces meurtrières ne sont pas suffisamment larges pour permettre le passage, même pour les unités volantes.",
                             "en": "These wall openings are not large enough to allow movement, even by flying units.",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Queste aperture non sono abbastanza larghe da consentire il movimento, anche per le unità volanti."
                         },
                         "coordinates": [[43.29, 40.53], [49.45, 84.64],[74.31, 72.14]]
                     }, {
                         "title": {
                             "fr": "Lit",
                             "en": "Bed",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Letto"
                         },
                         "description": {
                             "fr": "Un lit bien confortable où dormir",
                             "en": "This bed is cosy to sleep in",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Un letto comodo dove dormire"
                         },
                         "coordinates": [[54.29, 10.85]]
                     }
@@ -3854,7 +3854,7 @@
                 "title": {
                     "fr": "Temple",
                     "en": "Temple",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Tempio"
                 },
                 "version": "1.0",
                 "origins": ["conqueror"],
@@ -3864,36 +3864,36 @@
                         "title": {
                             "fr": "Pilier effondré",
                             "en": "Collapsed Pillar",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Pilastro crollato"
                         },
                         "description": {
                             "fr": "Un personnage peut se déplacer dans la zone du pilier effondré depuis une zone adjacente. Ce personnage doit dépenser 2 Points de Mouvement supplémentaires, à moins qu’il dispose de la compétence Escalade. Le pilier effondré ne procure pas de bonus de surplomb.",
-                            "en": "A character can move into the collapsed pillar area from an adjacent area. The character must spend 2 extra movement points unless they have Climbing. The collapsed pillar does not provide an Elevation bonus",
-                            "it": "TODO_TRANSLATE"
+                            "en": "A character can move into the collapsed pillar area from an adjacent area. The character must spend 2 extra movement points unless they have Climbing. The collapsed pillar does not provide an Elevation bonus.",
+                            "it": "Un personaggio può muoversi nell'area del pilastro da un'area adiacente. Questo personaggio deve spendere 2 Punti Movimento aggiuntivi a meno che non abbia l'abilità Arrampicarsi. Il pilastro crollato non genera bonus di soprelevazione."
                         },
                         "coordinates": [[67.22, 54.26]]
                     }, {
                         "title": {
                             "fr": "Nef",
                             "en": "Nave",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Navata"
                         },
                         "description": {
-                            "fr": "Quitter cette zone pour accéder à l’autel nécessite 2 Points de Mouvement supplémentaires, à moins que l’unité dispose de la compétence Escalade",
-                            "en": "Moving from the nave to the altar requires 2 additional movement points unless the unit has Climbing",
-                            "it": "TODO_TRANSLATE"
+                            "fr": "Quitter cette zone pour accéder à l’autel nécessite 2 Points de Mouvement supplémentaires, à moins que l’unité dispose de la compétence Escalade.",
+                            "en": "Moving from the nave to the altar requires 2 additional movement points unless the unit has Climbing.",
+                            "it": "Lasciare quest'area per raggiungere l'altare richiede 2 Punti Movimento aggiuntivi, a meno che l'unità non abbia l'abilità Arrampicarsi."
                         },
                         "coordinates": [[52.82, 50.06]]
                     }, {
                         "title": {
                             "fr": "Fosse",
                             "en": "Pit",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Pozzo"
                         },
                         "description": {
                             "fr": " Les unités ne peuvent pas pénétrer dans la fosse, bien que des objets puissent y être jetés. Les objets jetés dans la fosse sont perdus.",
                             "en": " Units cannot enter the pit, although items can be thrown into the pit. Items thrown in the pit are lost.",
-                            "it": "TODO_TRANSLATE"
+                            "it": " Le unità non possono entrare nel pozzo, così come non possono essere lanciati degli oggetti nel pozzo. Gli oggetti finiti nel pozzo sono persi."
                         },
                         "coordinates": [[1, 50]]
                     }
@@ -4117,12 +4117,12 @@
                         "title": {
                             "fr": "Escaliers",
                             "en": "Stairs",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Scale"
                         },
                         "description": {
-                            "fr": "Si l’une des zones des escaliers (pont ou cale) est saturée, une action d’Attaque au corps-à-corps peut être menée de l’autre zone de cet escalier",
+                            "fr": "Si l’une des zones des escaliers (pont ou cale) est saturée, une action d’Attaque au corps-à-corps peut être menée de l’autre zone de cet escalier.",
                             "en": "If one area of the stairs (deck or hold) is occupied, a Melee Attack action can be made from the other area of the stairs.",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Se una delle aree delle scale (sia del ponte che di coperta) è satura, è possibile effettuare un'azione di attacco in Mischia dall'altra area di queste scale."
                         },
                         "coordinates": [[26.63, 22.59], [61.66, 25.12], [77.68, 33.35], [28.28, 72.7], [61.41, 75.37], [77.3, 83.53]]
                     }
@@ -4156,7 +4156,7 @@
                 "title": {
                     "fr": "Galère",
                     "en": "Galley",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Galea"
                 },
                 "version": "1.0",
                 "rules": [
@@ -4164,12 +4164,12 @@
                         "title": {
                             "fr": "Escaliers",
                             "en": "Stairs",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Scale"
                         },
                         "description": {
-                            "fr": "Si l’une des zones des escaliers (pont ou cale) est saturée, une action d’Attaque au corps-à-corps peut être menée de l’autre zone de cet escalier",
+                            "fr": "Si l’une des zones des escaliers (pont ou cale) est saturée, une action d’Attaque au corps-à-corps peut être menée de l’autre zone de cet escalier.",
                             "en": "If one area of the stairs (deck or hold) is occupied, a Melee Attack action can be made from the other area of the stairs.",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Se una delle aree delle scale (sia del ponte che di coperta) è satura, è possibile effettuare un'azione di attacco in Mischia dall'altra area di queste scale."
                         },
                         "coordinates": [[35.72, 23.68], [60.52, 24.91], [77.81, 31.33], [35.47, 74.44], [59.5, 75.16], [74.82, 80.36]]
                     }
@@ -4203,7 +4203,7 @@
                 "title": {
                     "fr": "Chebek & Galère",
                     "en": "Chebek & Galley",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Sciabecco & Galea"
                 },
                 "version": "1.0",
                 "rules": [
@@ -4307,7 +4307,7 @@
                 "title": {
                     "fr": "Chebek (pont)",
                     "en": "Chebeck (deck)",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Sciabecco (ponte)"
                 },
                 "version": "1.0",
                 "origins": ["red-brotherhood"],
@@ -4317,12 +4317,12 @@
                         "title": {
                             "fr": "Dunette arrière",
                             "en": "Poop deck",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Ponte di poppa"
                         },
                         "description": {
                             "fr": "Sauter de la Dunette arrièrevers le pont inflige {dice_red}{dice_red} sans défense possible et {dice_red} si le Héros, l’Allié ou le personnage de l’Overlord possède la compétence Saut. Se déplacer vers la Dunette arrière ne peut se faire que par les escaliers. La compétence Escalade ne permet pas d’y accéder autrement.",
                             "en": "A character leaping from the poop deck onto the bridge rolls {dice_red}{dice_red} for falling damage, with no possible defense, and {dice_red} for Heroes, Allies, or Overlord characters with the Leap skill. The Poop deck can only be accessed by their stairways. You cannot use the Climb skill to enter the Forecastle from the Main deck.",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Saltare sul ponte dal ponte di poppa infligge {dice_red}{dice_red} danni da caduta senza nessuna difesa e {dice_red} se l'Eroe, l'Alleato o il personaggio dell'Overlord ha l'abilità Saltare. È possibile accedere al ponte di poppa solo dalle scale. L'abilità Arrampicarsi non permette di accedere di al castello di prua dal ponte principale."
                         },
                         "coordinates": [[87.41, 52.66]]
                     }
@@ -4473,7 +4473,7 @@
                 "title": {
                     "fr": "Chebek (cale)",
                     "en": "Chebeck (hold)",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Sciabecco (stiva)"
                 },
                 "version": "1.0",
                 "origins": ["red-brotherhood"],
@@ -4656,7 +4656,7 @@
                 "title": {
                     "fr": "Galère (pont)",
                     "en": "Galley (deck)",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Galera (ponte)"
                 },
                 "version": "1.0",
                 "origins": ["red-brotherhood"],
@@ -4666,12 +4666,12 @@
                         "title": {
                             "fr": "Gaillard et Dunette arrière",
                             "en": "Forecastle and Poop deck",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Castello di prua e ponte di poppa"
                         },
                         "description": {
                             "fr": "Sauter du Gaillard ou de la Dunette arrière vers le pont inflige {dice_red}{dice_red} sans défense possible et {dice_red} si le Héros, l’Allié ou le personnage de l’Overlord possède la compétence Saut. Se déplacer vers le Gaillard ou la Dunette arrière ne peut se faire que par les escaliers. La compétence Escalade ne permet pas d’y accéder autrement.",
                             "en": "A character leaping from the Forecastle or the Poop deck onto the bridge rolls {dice_red}{dice_red} for falling damage, with no possible defense, and {dice_red} for Heroes, Allies, or Overlord characters with the Leap skill. The Forecastle or the Poop deck can only be accessed by their stairways. You cannot use the Climb skill to enter the Forecastle from the Main deck.",
-                            "it": "TODO_TRANSLATE"
+                            "it": "Saltare dal castello di prua o dal ponte di poppa verso il ponte infligge {dice_red}{dice_red} danni da caduta senza nessuna difesa e {dice_red} se l'Eroe, l'Alleato o il personaggio dell'Overlord ha l'abilità Saltare. È possibile accedere al castello di prua e al ponte di poppa solo dalle scale. L'abilità Arrampicarsi non permette di accedere di al castello di prua dal ponte principale."
                         },
                         "coordinates": [[86.9, 50.07], [11.69, 45.02]]
                     }
@@ -4864,7 +4864,7 @@
                 "title": {
                     "fr": "Galère (cale)",
                     "en": "Galley (hold)",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Galea (stiva)"
                 },
                 "version": "1.0",
                 "origins": ["red-brotherhood"],
