@@ -4780,7 +4780,7 @@
             "name": {
                 "fr": "Goules",
                 "en": "Ghouls",
-                "it": "TODO_TRANSLATE"
+                "it": "Ghoul"
             },
 
             "colors": ["gray"],
@@ -4795,12 +4795,12 @@
                 "text": {
                     "fr": "On les appelait des goules, des créatures qui se nourrissaient de chair humaine, rejetons des ténèbres issus des accouplements impies d’une race perdue et oubliée avec les démons des profondeurs. Quelque part dans ces forêts primitives se trouvaient les ruines d’une antique cité maudite, disait-on, et des ombres grises ayant l’aspect d’êtres humains rôdaient entre les tombes..",
                     "en": "Ghouls, men called them, eaters of human flesh, spawn of darkness, children of unholy matings of a lost and forgotten race with the demons of the underworld. Somewhere in these primitive forests were the ruins of an ancient, accursed city, men whispered, and among its tombs slunk gray, anthropomorphic shadows...",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Ghoul, li chiamava la gente, divoratori di carne umana, progenie delle tenebre, frutto di esecrandi connubi tra una razza perduta e dimenticata e i Demoni degli inferi. Da qualche parte, in quelle foreste primitive, c'erano le rovine di un'antica città maledetta, così sussurrava la gente, e fra le sue tombe scivolavano grigie ombre antropomorfe..."
                 },
                 "origin": {
                     "fr": "L’Heure du dragon",
                     "en": "Hour of the Dragon",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Conan il Conquistatore"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -4820,7 +4820,7 @@
             "name": {
                 "fr": "Goules",
                 "en": "Ghouls",
-                "it": "TODO_TRANSLATE"
+                "it": "Ghoul"
             },
 
             "colors": ["red", "blue"],
@@ -4835,12 +4835,12 @@
                 "text": {
                     "fr": "On les appelait des goules, des créatures qui se nourrissaient de chair humaine, rejetons des ténèbres issus des accouplements impies d’une race perdue et oubliée avec les démons des profondeurs. Quelque part dans ces forêts primitives se trouvaient les ruines d’une antique cité maudite, disait-on, et des ombres grises ayant l’aspect d’êtres humains rôdaient entre les tombes..",
                     "en": "Ghouls, men called them, eaters of human flesh, spawn of darkness, children of unholy matings of a lost and forgotten race with the demons of the underworld. Somewhere in these primitive forests were the ruins of an ancient, accursed city, men whispered, and among its tombs slunk gray, anthropomorphic shadows...",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Ghoul, li chiamava la gente, divoratori di carne umana, progenie delle tenebre, frutto di esecrandi connubi tra una razza perduta e dimenticata e i Demoni degli inferi. Da qualche parte, in quelle foreste primitive, c'erano le rovine di un'antica città maledetta, così sussurrava la gente, e fra le sue tombe scivolavano grigie ombre antropomorfe..."
                 },
                 "origin": {
                     "fr": "L’Heure du dragon",
                     "en": "Hour of the Dragon",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Conan il Conquistatore"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -4860,7 +4860,7 @@
             "name": {
                 "fr": "Acolytes khitiens",
                 "en": "Khitan Acolytes",
-                "it": "TODO_TRANSLATE"
+                "it": "Accoliti Khitani"
             },
 
             "colors": ["gray"],
@@ -4875,12 +4875,12 @@
                 "text": {
                     "fr": "Je t’ai suivi bien loin, ô roi d’Aquilonie », déclara posément le Khitan. « J’ai descendu le grand fleuve, franchi les montagnes, traversé Poitain et Zingara et les collines d’Argos jusqu’à la côte. Il ne nous a pas été facile de trouver ta trace depuis Tarantia, car les prêtres d ‘Asura sont rusés. Nous l’avons perdue en Zingara, mais nous avons trouvé ton casque dans la forêt au bas des collines de la frontière, où tu t’étais battu contre les goules de la forêt. Nous avions presque perdu ta trace ce soir, dans ce labyrinthe.. la longue piste s’arrête ici. »",
                     "en": "Far have I followed you, oh king of Aquilonia,” said the Khitan calmly. “Down the long river, and over the mountains, across Poitain and Zingara and through the hills of Argos and down the coast. Not easily did we pick up your trail from Tarantia, for the priests of Asura are crafty. We lost it in Zingara, but we found your helmet in the forest below the border hills, where you had fought with the ghouls of the forests. Almost we lost the trail again tonight among these labyrinths...the long trail ends here.”",
-                    "it": "TODO_TRANSLATE"
+                    "it": "— Da terre lontane ti ho seguito, o Re di Aquilonia — disse il khitano con voce priva di emozione. — Lungo la corrente del grande fiume e per i monti, attraverso Poitain e Zingara, sulle montagne di Argos e lungo la costa. Non è sempre stato facile trovare le tue tracce, dopo la tua uscita da Tarantia: i sacerdoti di Asura sono molto astuti. E a Zingara le avevamo perdute, ma poi abbiamo trovato il tuo elmetto nelle foreste ai piedi delle montagne, al confine, là dove hai combattuto con i ghoul. E questa stessa notte, in questi labirinti, le avevamo quasi perdute un'altra volta... la lunga caccia termina qui."
                 },
                 "origin": {
                     "fr": "L’Heure du dragon",
                     "en": "Hour of the Dragon",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Conan il Conquistatore"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -4900,7 +4900,7 @@
             "name": {
                 "fr": "Acolytes khitiens",
                 "en": "Khitan Acolytes",
-                "it": "TODO_TRANSLATE"
+                "it": "Accoliti Khitani"
             },
 
             "colors": ["gray"],
@@ -4915,12 +4915,12 @@
                 "text": {
                     "fr": "Je t’ai suivi bien loin, ô roi d’Aquilonie », déclara posément le Khitan. « J’ai descendu le grand fleuve, franchi les montagnes, traversé Poitain et Zingara et les collines d’Argos jusqu’à la côte. Il ne nous a pas été facile de trouver ta trace depuis Tarantia, car les prêtres d ‘Asura sont rusés. Nous l’avons perdue en Zingara, mais nous avons trouvé ton casque dans la forêt au bas des collines de la frontière, où tu t’étais battu contre les goules de la forêt. Nous avions presque perdu ta trace ce soir, dans ce labyrinthe.. la longue piste s’arrête ici. »",
                     "en": "Far have I followed you, oh king of Aquilonia,” said the Khitan calmly. “Down the long river, and over the mountains, across Poitain and Zingara and through the hills of Argos and down the coast. Not easily did we pick up your trail from Tarantia, for the priests of Asura are crafty. We lost it in Zingara, but we found your helmet in the forest below the border hills, where you had fought with the ghouls of the forests. Almost we lost the trail again tonight among these labyrinths...the long trail ends here.”",
-                    "it": "TODO_TRANSLATE"
+                    "it": "— Da terre lontane ti ho seguito, o Re di Aquilonia — disse il khitano con voce priva di emozione. — Lungo la corrente del grande fiume e per i monti, attraverso Poitain e Zingara, sulle montagne di Argos e lungo la costa. Non è sempre stato facile trovare le tue tracce, dopo la tua uscita da Tarantia: i sacerdoti di Asura sono molto astuti. E a Zingara le avevamo perdute, ma poi abbiamo trovato il tuo elmetto nelle foreste ai piedi delle montagne, al confine, là dove hai combattuto con i ghoul. E questa stessa notte, in questi labirinti, le avevamo quasi perdute un'altra volta... la lunga caccia termina qui."
                 },
                 "origin": {
                     "fr": "L’Heure du dragon",
                     "en": "Hour of the Dragon",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Conan il Conquistatore"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -4940,7 +4940,7 @@
             "name": {
                 "fr": "Acolytes khitiens",
                 "en": "Khitan Acolytes",
-                "it": "TODO_TRANSLATE"
+                "it": "Accoliti Khitani"
             },
 
             "colors": ["black"],
@@ -4955,12 +4955,12 @@
                 "text": {
                     "fr": "Je t’ai suivi bien loin, ô roi d’Aquilonie », déclara posément le Khitan. « J’ai descendu le grand fleuve, franchi les montagnes, traversé Poitain et Zingara et les collines d’Argos jusqu’à la côte. Il ne nous a pas été facile de trouver ta trace depuis Tarantia, car les prêtres d ‘Asura sont rusés. Nous l’avons perdue en Zingara, mais nous avons trouvé ton casque dans la forêt au bas des collines de la frontière, où tu t’étais battu contre les goules de la forêt. Nous avions presque perdu ta trace ce soir, dans ce labyrinthe.. la longue piste s’arrête ici. »",
                     "en": "Far have I followed you, oh king of Aquilonia,” said the Khitan calmly. “Down the long river, and over the mountains, across Poitain and Zingara and through the hills of Argos and down the coast. Not easily did we pick up your trail from Tarantia, for the priests of Asura are crafty. We lost it in Zingara, but we found your helmet in the forest below the border hills, where you had fought with the ghouls of the forests. Almost we lost the trail again tonight among these labyrinths...the long trail ends here.”",
-                    "it": "TODO_TRANSLATE"
+                    "it": "— Da terre lontane ti ho seguito, o Re di Aquilonia — disse il khitano con voce priva di emozione. — Lungo la corrente del grande fiume e per i monti, attraverso Poitain e Zingara, sulle montagne di Argos e lungo la costa. Non è sempre stato facile trovare le tue tracce, dopo la tua uscita da Tarantia: i sacerdoti di Asura sono molto astuti. E a Zingara le avevamo perdute, ma poi abbiamo trovato il tuo elmetto nelle foreste ai piedi delle montagne, al confine, là dove hai combattuto con i ghoul. E questa stessa notte, in questi labirinti, le avevamo quasi perdute un'altra volta... la lunga caccia termina qui."
                 },
                 "origin": {
                     "fr": "L’Heure du dragon",
                     "en": "Hour of the Dragon",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Conan il Conquistatore"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -4980,7 +4980,7 @@
             "name": {
                 "fr": "Archers pirates",
                 "en": "Pirate Archers",
-                "it": "TODO_TRANSLATE"
+                "it": "Pirati arcieri"
             },
 
             "colors": ["gray", "black"],
@@ -4995,12 +4995,12 @@
                 "text": {
                     "fr": "Conan surgit devant eux et leur fit face, épée à la main. Ils battirent en retraite, poussant des cris de menace et de surprise, puis s’arrêtèrent avec incertitude pour mieux examiner cette silhouette qui était apparue si soudainement des rochers. Ils étaient environ soixante-dix, une horde sauvage composée d’hommes de nombreuses nations : Kothiens, Zamoriens, Brythuniens, Corinthiens, Shémites. Leurs traits reflétaient la sauvagerie de leurs mœurs. Beaucoup portaient la marque du fouet ou du fer rouge. Il y avait des oreilles coupées, des nez fendus en deux, des orbites béantes, des moignons de poignet.. blessures infligées par le bourreau autant que cicatrices résultant de batailles sanglantes. La plupart d’entre eux étaient à moitié nus, mais leurs quelques vêtements étaient de prix et élégants: jaquettes aux soutaches d’or, ceinturons de satin, braies de soie en lambeaux, maculées de goudron et de sang, le disputant avec leurs pièces de cuirasse en argent ciselé. Des gemmes étincelaient sur des anneaux de nez et des boucles d’oreilles, sur les pommeaux de leurs dagues.",
                     "en": "Conan stepped out from among the boulders and faced them, sword in hand. They gave back with yells of menace and surprise; then halted uncertainly to glare at this figure which had appeared so suddenly from the rocks. There were some seventy of them, a wild horde made up of men from many nations: Kothians, Zamorians, Brythunians, Corinthians, Shemites. Their features reflected the wildness of their natures. Many bore the scars of the lash or the branding-iron. There were cropped ears, slit noses, gaping eye-sockets, stumps of wrists— marks of the hangman as well as scars of battle. Most of them were half naked, but the garments they wore were fine; gold-braided jackets, satin girdles, silken breeches, tattered, stained with tar and blood, vied with pieces of silver-chased armor. Jewels glittered in nose-rings and earrings, and in the hilts of their daggers.",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Conan uscì dai macigni e fronteggiò i pirati, con la spada in pugno. Quelli arretrarono, tra grida di minaccia e di stupore; poi si fermarono incerti, squadrando l'uomo apparso così all'improvviso. Erano una settantina: un'orda selvaggia di uomini provenienti da molte nazioni, kothiani, zamoriani, brythuni, corinzi, shemiti. I volti rispecchiavano indoli feroci. Molti mostravano le cicatrici delle fruste e dei marchi d'infamia. C'erano orecchie mozze, nasi squarciati, occhiaie cieche, polsi troncati… segni lasciati dal boia, e non solo dalle battaglie. Erano quasi tutti seminudi, ma gli indumenti che portavano erano splendidi: giubbe gallonate d'oro, cinture seriche, brache di raso, rovinate e sporche di catrame e di sangue, gareggiavano in lusso con le armi intarsiate d'argento. Le gemme brillavano sui nasi e alle orecchie, e sulle impugnature delle daghe."
                 },
                 "origin": {
                     "fr": "Chimères de fer dans la clarté lunaire",
                     "en": "Iron Shadows in the Moon",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Ombre al chiaro di luna"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5020,7 +5020,7 @@
             "name": {
                 "fr": "Enfants de Gullah",
                 "en": "Children of Gullah",
-                "it": "TODO_TRANSLATE"
+                "it": "Figli di Gullah"
             },
 
             "colors": ["gray"],
@@ -5035,12 +5035,12 @@
                 "text": {
                     "fr": "Un homme-singe gris, » grogna-t-il. « Muet et mangeur de chair humaine. Ils vivent dans les collines qui bordent la côte orientale de cette mer. Comment celui-ci est-il arrivé sur cette île, je ne saurais le dire. Peut-être a-t-il dérivé jusqu’ici, accroché à un tronc d’arbre déraciné et emporté par une tempête, loin du continent.\n - C’est lui qui a lancé le rocher sur nous ?\n - Oui.. Ces créatures se tiennent toujours aux aguets dans les bois les plus profonds qu’ils puissent trouver et en sortent rarement. Pour quelle raison s’est-il risqué sur les falaises, je l’ignore. Cela a été une chance pour nous; au milieu des arbres jamais je n’aurais pu venir à bout de ce monstre.. Les créatures de son espèce vivent dans des endroits silencieux, dans les ténèbres ; elles détestent le soleil autant que la lune. »",
                     "en": "A gray man-ape,” he grunted. “Dumb, and man eating. They dwell in the hills that border the eastern shore of this sea. How this one got to this island, I can’t say. Maybe he floated here on driftwood, blown out from the mainland in a storm.” \n“And it was he that threw the stone?” \n“Yes...These creatures always lurk in the deepest woods they can find, and seldom emerge. What brought him into the open, I can’t say, but it was lucky for us; I’d have had no chance with him among the trees...His kind are creatures of darkness and the silent places, haters of sun and moon.”",
-                    "it": "TODO_TRANSLATE"
+                    "it": "— Un uomo-scimmia grigio — borbottò lui. — Muto e antropofago. Vivono tra le colline che costeggiano le sponde orientali di questo mare. Non so come questo abbia potuto giungere sull'isola. Forse c'è arrivato aggrappandosi a un tronco gettato in acqua da una tempesta.\n— Ed era stato lui a scagliare la pietra?\n— Sì... Questi esseri stanno sempre nelle foreste più fitte, e raramente ne escono. Non so cosa l'abbia indotto ad avventurarsi all'aperto, ma per noi è stata una fortuna; tra gli alberi, non avrei avuto nessuna possibilità di vincerlo... Sono creature dell'oscurità e dei luoghi silenziosi, e odiano il sole e la luna."
                 },
                 "origin": {
                     "fr": "Chimères de fer dans la clarté lunaire",
                     "en": "Iron Shadows in the Moon",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Ombre al chiaro di luna"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5060,7 +5060,7 @@
             "name": {
                 "fr": "Horreur des Fosses",
                 "en": "Haunter of the Picts",
-                "it": "TODO_TRANSLATE"
+                "it": "Orrore delle Fosse"
             },
 
             "colors": ["gray"],
@@ -5076,16 +5076,16 @@
             "quote": {
                 "text": {
                     "fr": "À demi mythiques et totalement horribles, ces singes étaient les gobelins des légendes hyboriennes. ",
-                    "en": "Half mythical and altogether horrible, these apes were the goblins of Hyborian legendry",
-                    "it": "TODO_TRANSLATE"
+                    "en": "Half mythical and altogether horrible, these apes were the goblins of Hyborian legendry.",
+                    "it": "Mitiche e orribili, quelle scimmie erano gli orchi delle leggende hyboriane."
                 },
                 "origin": {
                     "fr": "Chimères de fer dans la clarté lunaire",
                     "en": "-",
-                    "it": "-"
+                    "it": "Ombre al chiaro di luna"
                 },
                 "author": {
-                    "name": "-"
+                    "name": "Robert E. Howard"
                 }
             },
 
@@ -5102,7 +5102,7 @@
             "name": {
                 "fr": "Balistes Pirates",
                 "en": "Ballista Pirates",
-                "it": "TODO_TRANSLATE"
+                "it": "Baliste Pirata"
             },
 
             "colors": ["gray"],
@@ -5126,7 +5126,7 @@
             "name": {
                 "fr": "Baliste d'élite",
                 "en": "Ballista Pirates",
-                "it": "TODO_TRANSLATE"
+                "it": "Balista d'élite"
             },
 
             "colors": ["gray"],
@@ -5152,7 +5152,7 @@
             "name": {
                 "fr": "Profonds",
                 "en": "Deep Ones",
-                "it": "TODO_TRANSLATE"
+                "it": "Abitatori del profondo"
             },
 
             "colors": ["gray"],
@@ -5167,12 +5167,12 @@
                 "text": {
                     "fr": "Au cours de ses périples, il trouva un peuple primitif qui habitait l’île de Dagonia ; il lui plut d’apporter à cette race la culture et la civilisation et, grâce à son aide, ils construisirent la cité de Dagon ; ils y vécurent et le vénérèrent.",
                     "en": "In his wanderings he came upon a primitive people inhabiting the island of Dagonia, and it pleased him to give this race culture and civilization, and by his aid they built the city of Dagon and they abode there and worshipped him.",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Nei suoi vagabondaggi s'imbatté in un popolo primitivo che abitava nell'isola di Dagonia; e si compiacque di donare cultura e civiltà a quella razza, che col suo aiuto eresse la città di Dagon e vi dimorò, adorandolo."
                 },
                 "origin": {
                     "fr": "Le Diable d’Airain",
                     "en": "The Devil in Iron",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Il Diavolo di Ferro"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5192,7 +5192,7 @@
             "name": {
                 "fr": "Champion Profond",
                 "en": "Deep One Champion",
-                "it": "TODO_TRANSLATE"
+                "it": "Campione degli abissi"
             },
 
             "colors": ["gray"],
@@ -5209,12 +5209,12 @@
                 "text": {
                     "fr": "Au cours de ses périples, il trouva un peuple primitif qui habitait l’île de Dagonia ; il lui plut d’apporter à cette race la culture et la civilisation et, grâce à son aide, ils construisirent la cité de Dagon ; ils y vécurent et le vénérèrent.",
                     "en": "In his wanderings he came upon a primitive people inhabiting the island of Dagonia, and it pleased him to give this race culture and civilization, and by his aid they built the city of Dagon and they abode there and worshipped him.",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Nei suoi vagabondaggi s'imbatté in un popolo primitivo che abitava nell'isola di Dagonia; e si compiacque di donare cultura e civiltà a quella razza, che col suo aiuto eresse la città di Dagon e vi dimorò, adorandolo."
                 },
                 "origin": {
                     "fr": "Le Diable d’Airain",
                     "en": "The Devil in Iron",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Il Diavolo di Ferro"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5251,12 +5251,12 @@
                 "text": {
                     "fr": "Mais je ne suis pas une poupée fardée, je suis un être de chair et de sang. Je respire, je connais la haine, la peur, la joie et l’amour. Et je vous aime, roi Conan, depuis ce jour où je vous ai vu dans les rues de Belverus, avançant à la tête de vos chevaliers, quand vous avez rendu visite au roi Nimed, il y a des années de cela. Mon cœur a bondi dans ma poitrine et a menacé de s’envoler pour venir tomber dans la poussière de la rue sous les sabots de votre cheval. »\nSes traits s’empourpraient au fur et à mesure qu’elle parlait, mais ses yeux noirs ne vacillèrent pas. Conan ne répondit pas toute de suite. Aussi sauvage, passionnée et indomptée soit-elle, il aurait fallu être une brute insondable pour ne pas être ému, et même quelque peu intimidé et émerveillé, par cette femme qui mettait son âme à nu.",
                     "en": "But I am no painted toy; I am of flesh and blood. I breathe, hate, fear, rejoice and love. And I have loved you, King Conan, ever since I saw you riding at the head of your knights along the streets of Belverus when you visited King Nimed, years ago. My heart tugged at its strings to leap from my bosom and fall in the dust of the street under your horse’s hoofs.”\nColor flooded her countenance as she spoke, but her dark eyes did not waver. Conan did not at once reply; wild and passionate and untamed he was, yet any but the most brutish of men must be touched with a certain awe or wonder at the baring of a woman’s naked soul.",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Ma non sono un giocattolo: anch'io sono fatta di carne. Respiro, odio, temo, esulto e amo. E amo voi, Re Conan, fin da quando vi ho visto cavalcare alla testa dei vostri cavalieri per le strade di Belvero, quando avete fatto visita a Re Numa, anni fa. Il mio cuore impazzito minacciava di saltare fuori dal petto e gettarsi nella polvere della strada sotto gli zoccoli del vostro cavallo.\nMentre così parlava, la ragazza arrossì visibilmente, ma i suoi occhi non tremarono. Conan rimase muto; era portato ad agire selvaggiamente, impetuosamente, indomitamente, ma anche l'uomo più feroce prova un senso di rispetto e di meraviglia, quando una donna gli svela la propria anima."
                 },
                 "origin": {
                     "fr": "L’Heure du dragon",
                     "en": "Hour of the Dragon",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Conan il Conquistatore"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5276,7 +5276,7 @@
             "name": {
                 "fr": "Manifestation de Mitra",
                 "en": "Manifestation of Mitra",
-                "it": "TODO_TRANSLATE"
+                "it": "Manifestazione di Mitra"
             },
 
             "colors": ["gray"],
@@ -5293,12 +5293,12 @@
                 "text": {
                     "fr": "Derrière un autel de jade vert clair, vierge de tout sacrifice, se dressait le piédestal sur lequel était assise la représentation matérielle de la divinité. Yasmela contempla avec crainte la longue courbe des magnifiques épaules, les traits bien découpés : les yeux larges et droits, la barbe de patriarche, les boucles épaisses des cheveux, retenues par un simple bandeau enserrant les tempes. Cette statue, bien que la princesse l’ignorât, était un chef-d’œuvre, l’expression artistique, libre de toute entrave, d’une race hautement cultivée, débarrassée de tout symbolisme conventionnel. \n « Ceci n’est que la représentation du dieu. Personne n’a jamais prétendu savoir à quoi ressemblait Mitra. Ceci le représente seulement sous une forme humaine idéalisée, aussi proche de la perfection que l’esprit humain peut le concevoir. Il n’habite pas cette pierre froide, comme l’affirment vos prêtres à propos d’Ishtar. Il est partout.. au-dessus de nous et autour de nous, et il rêve parfois en de hauts lieux parmi les étoiles. Mais son être se concentre ici. C’est pourquoi tu peux l’invoquer à présent. » \n... Les deux jeunes filles sursautèrent violemment alors qu’une voix retentissait dans l’air au-dessus d’elles. \n Les accents sereins, aussi graves et mélodieux qu’une cloche, provenaient autant de la statue que de tout autre endroit dans la pièce. De nouveau Yasmela trembla devant une voix immatérielle qui s’adressait à elle ; cette fois, ce n’était pas d’horreur ou de répulsion.",
                     "en": "Behind an altar of clear green jade, unstained with sacrifice, stood the pedestal whereon sat the material manifestation of the deity. Yasmela looked in awe at the sweep of the magnificent shoulders, the clear-cut features—the wide straight eyes, the patriarchal beard, the thick curls of the hair, confined by a simple band about the temples. This, though she did not know it, was art in its highest form—the free, uncramped artistic expression of a highly esthetic race, unhampered by conventional symbolism. \n“This is but the emblem of the god. None pretends to know what Mitra looks like. This but represents him in idealized human form, as near perfection as the human mind can conceive. He does not inhabit this cold stone, as your priests tell you Ishtar does. He is everywhere—above us, and about us, and he dreams betimes in the high places among the stars. But here his being focusses. Therefore call upon him.” \n...Then both girls started violently as a voice began in the air above them. The deep, calm, bell-like tones emanated no more from the image than from anywhere else in the chamber. Again Yasmela trembled before a bodiless voice speaking to her, but this time it was not from horror or repulsion.",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Dietro un altare di verde giada trasparente, mai macchiato da sacrifici, stava il piedestallo su cui sedeva la manifestazione materiale della divinità. Yasmela guardò intimorita le spalle magnifiche, i lineamenti nitidi… i grandi occhi, la barba patriarcale, i capelli ricciuti e stretti da una semplice fascia alle tempie. Sebbene lei non lo sapesse, quella era un'opera d'arte nella forma più elevata… la libera espressione artistica di una razza ascetica, non ostacolata da simbolismi convenzionali. \n— Questo è solo un emblema del dio. Nessuno può pretendere di conoscere l'aspetto di Mitra. La statua lo rappresenta in una forma umana idealizzata, vicina alla perfezione per quanto può concepirla una mente mortale. Ma il dio non dimora in questa fredda pietra, come i sacerdoti di Ishtar dicono che faccia la dea. Egli è dovunque… sopra di noi, e intorno a noi, eppure sogna nei luoghi tra le stelle. Ma qui si concentra il suo essere. Perciò chiamalo. \n...Poi le due fanciulle trasalirono quando una voce risuonò nell'aria sopra di loro. I toni profondi, sereni, scanditi, non emanavano dall'immagine né da altri punti della sala. Ancora una volta, Yasmela tremò di fronte ad una voce incorporea che le parlava: ma questa volta non provava orrore o ripugnanza."
                 },
                 "origin": {
                     "fr": "Le Colosse noir",
                     "en": "Black Colossus",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Colosso Nero"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5337,12 +5337,12 @@
                 "text": {
                     "fr": "Éclairée de la sorte, la silhouette enfoncée dans le fauteuil d’argent en forme de trône et qui lui faisait face paraissait irréelle et fantastique. Sa légère robe de soie accentuait cette impression de flou dans ses contours. Mais ses traits étaient, eux, parfaitement distincts, bien plus qu’ils n’auraient dû l’être dans cette lumière incertaine. C’était comme si un nimbe entourait cette tête, faisant ressortir nettement ce visage barbu, qui devenait l’unique réalité tangible et distincte dans cette pièce mystique et spectrale. Son visage était magnifique et ses traits bien découpés étaient empreints d’une beauté classique. Il y avait, en effet, quelque chose d’inquiétant qui émanait de cette apparence paisible et tranquille, quelque chose qui dépassait l’entendement, une certitude profonde au-delà du savoir humain.",
                     "en": "In that light the figure seated in a silver, thronelike chair before him seemed unreal and fantastic, with an illusiveness of outline that was heightened by a filmy silken robe. But the features were distinct—unnaturally so in that uncertain light. It was almost as if a weird nimbus played about the man’s head, casting the bearded face into bold relief, so that it was the only definite and distinct reality in that mystic, ghostly chamber. It was a magnificent face, with strongly chiseled features of classical beauty. There was, indeed, something disquieting about the calm tranquility of its aspect, a suggestion of more than human knowledge, of a profound certitude beyond human assurance.",
-                    "it": "TODO_TRANSLATE"
+                    "it": "In quella luce la figura seduta davanti a lui, su un seggio d'argento a forma di trono, sembrava fantastica e irreale. Una leggera veste di seta ne sottolineava i contorni ingannevoli, ma i connotati del volto si scorgevano distintamente nonostante la luce incerta, ed era appunto questo a farla apparire irreale. Era come se intorno alla testa dell'uomo ci fosse una nube sovrannaturale che ne mettesse in rilievo il volto adorno di barba, per farlo apparire come l'unica realtà distinta e definita nella stanza spettrale e misteriosa. Era un volto magnifico, con lineamenti di bellezza classica modellati con decisione. E nella serenità e nella calma del suo aspetto c'era anche un non so che di inquietante, qualcosa che suggeriva una sapienza più che umana, una salda sicurezza che oltrepassava ogni umana fiducia."
                 },
                 "origin": {
                     "fr": "L’Heure du dragon",
                     "en": "Hour of the Dragon",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Conan il Conquistatore"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5364,7 +5364,7 @@
             "name": {
                 "fr": "Conan le Pirate",
                 "en": "Conan the Pirate",
-                "it": "TODO_TRANSLATE"
+                "it": "Conan il Pirata"
             },
 
             "colors": ["gray"],
@@ -5381,12 +5381,12 @@
                 "text": {
                     "fr": "L’eau s’écoulait en ruisselant de ses épaules, glissant le long de ses bras puissants. Son unique vêtement - des culottes de soie rouge - était trempé, tout comme sa large ceinture à boucle d’or et l’épée gainée dans le fourreau qu’elle soutenait. Tandis qu’il finissait d’escalader ainsi la lisse, les rayons du soleil levant découpèrent sa silhouette, le faisant ressembler à une grande statue de bronze. Il passa ses doigts dans sa sombre crinière ruisselante d’eau et ses yeux bleus brillèrent comme ils se posaient sur la jeune fille.",
                     "en": "Water ran in rivulets from his great shoulders and down his heavy arms. His single garment—a pair of bright crimson silk breeks— was soaking wet, as was his broad gold-buckled girdle and the sheathed sword it supported. As he stood at the rail, the rising sun etched him like a great bronze statue. He ran his fingers through his streaming black mane, and his blue eyes lit as they rested on the girl.",
-                    "it": "TODO_TRANSLATE"
+                    "it": "L'acqua gli scorreva in rivoli dalle larghe spalle lungo le braccia muscolose. Il suo unico indumento, un paio di calzoni di lucida seta scarlatta, era bagnato fradicio, come l'ampia cintura dal fermaglio dorato che sorreggeva il fodero della spada. Fermo sulla murata, l'uomo si stagliò contro il sole nascente come una gigantesca statua di bronzo. Fece scorrere le dita fra i lunghi capelli neri, e gli occhi azzurri si accesero quando si posarono sul corpo della ragazza."
                 },
                 "origin": {
                     "fr": "Le Bassin de l’homme noir",
                     "en": "Pool of the Black One",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Lo stagno dei Neri"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5423,12 +5423,12 @@
                 "text": {
                     "fr": "Ho, N’Yaga ! » (Sa voix vibra comme la corde d’un arc.) « Apporte des herbes et soigne les blessures de ton maître !\nVous autres, transbordez le butin sans perdre de temps et détachez les grappins. »\nTandis que Conan était assis, le dos au bastingage du gaillard d’arrière et que le vieux chaman s’occupait de ses blessures aux mains et aux membres, la cargaison de l’infortuné Argus était rapidement portée à bord de la Tigresse et entreposée dans les petites cabines aménagées sous le pont.",
                     "en": "Ho, N’Yaga!” her voice twanged like a bowstring.\n“Fetch herbs and dress your master’s wounds! The rest of you bring aboard the plunder and cast off.”\nAs Conan sat with his back against the poop-rail, while the old shaman attended to the cuts on his hands and limbs, the cargo of the ill-fated Argus was quickly shifted aboard the Tigress and stored in small cabins below deck.",
-                    "it": "TODO_TRANSLATE"
+                    "it": "— Tu, N'Yaga! — La voce della donna schioccò come la corda di un arco.\n — Prendi le erbe e medica le ferite del tuo padrone! Voialtri, portate a bordo il bottino, e tagliamo i grappini.\n Conan si sedette con la schiena contro la murata di poppa, mentre il vecchio sciamano gli curava le ferite alle mani e alle gambe, e il carico della sfortunata Argus veniva rapidamente trasferito sulla Tigre e ammassato in piccole cabine sotto il ponte."
                 },
                 "origin": {
                     "fr": "La Reine de la Côte Noire",
                     "en": "Queen of the Black Coast",
-                    "it": "TODO_TRANSLATE"
+                    "it": "La Regina della Costa Nera"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5465,12 +5465,12 @@
                 "text": {
                     "fr": "Gorm avait derrière lui un héritage de cent mille ans de sauvagerie hurlante ; \nle pas feutré du tigre était le sien, la poigne du gorille était celle de ses mains aux ongles noircis, le feu qui couve dans les yeux du léopard brûlait au fond des siens. \nGorm, fort de cette nouvelle activité et de ses connaissances accrues, commença à exercer sa domination sur les autres clans, en partie par la guerre, en partie par la ruse et la diplomatie, art dans lequel il surpassait tous les autres barbares.",
                     "en": "Gorm had behind him a heritage of a hundred thousand years of screaming savagery—the pad of the tiger was in his stealthy step, the grip of the gorilla in his black-nailed hands, the fire that burns in a leopard’s eyes burned in his.\nAnd Gorm, by virtue of this new craft, began to assert his dominance over other clans, partly by war, partly by craft and diplomacy, in which latter art he excelled all other barbarians.",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Gorm aveva in sé l'eredità di centomila anni di vita selvaggia, sanguinaria e violenta: nel suo passo furtivo vi era l'avanzare felpato della tigre, nelle sue mani dalle unghie listate di nero la stretta implacabile e mortale del gorilla, e il fuoco che ardeva negli occhi del leopardo mandava un uguale bagliore dai suoi occhi.\nE Gorm, grazie appunto alla nuova metallurgia, cominciò a imporre il suo dominio agli altri clan, in parte con la guerra, in parte con l'astuzia e la diplomazia, arte quest'ultima nella quale sovrastava ampiamente ogni altro barbaro."
                 },
                 "origin": {
                     "fr": "L’Âge hyborien",
                     "en": "The Hyborian Age",
-                    "it": "TODO_TRANSLATE"
+                    "it": "L'Era Hyboriana"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5509,12 +5509,12 @@
                 "text": {
                     "fr": "Ta tête, Cimmérien ! » se moqua Baal-pteor. « Je la prendrai, de mes mains nues, pour la tordre sur tes épaules comme on tord le cou à un poulet ! C’est ainsi que les fils de Kosala offrent leurs sacrifices à Yajur ! Barbare, tu as face à toi un des Étrangleurs de Yota-pong ! J’ai été choisi alors que je n’étais qu’un jeune garçon par les prêtres de Yajur. Durant toutes mes premières années, mon enfance et mon adolescence, j’ai été entraîné dans l’art de tuer de mes mains nues.. car c’est seulement ainsi que se font les sacrifices. Yajur aime le sang et nous ne perdons ainsi aucune goutte de celui de nos victimes ! De mes mains, barbare, je vais te briser le cou ! »",
                     "en": "Your head, Cimmerian!” taunted Baal-pteor. “I shall take it with my bare hands, twisting it from your shoulders as the head of a fowl is twisted! Thus the sons of Kosala offer sacrifice to Yajur. Barbarian, you look upon a strangler of Yotapong. I was chosen by the priests of Yajur in my infancy, and throughout childhood, boyhood and youth I trained in the art of slaying with the naked hands—for only thus are the sacrifices enacted. Yajur loves blood, and we waste not a drop from the victim’s veins...With my hands, barbarian, I shall break your neck!”",
-                    "it": "TODO_TRANSLATE"
+                    "it": "— La tua testa, Cimmero! — esclamò Baal-pteor in tono di scherno. — La prenderò a mani nude, strappandotela dalle spalle come se fosse la testa di un pollo! Così i figli di Kosala offrono sacrifici a Yajur. Barbaro, tu vedi davanti a te uno strangolatore di Yota-pong. Sono stato prescelto dai sacerdoti di Yajur quand'ero ancora bambino, e durante l'infanzia, l'adolescenza e la giovinezza sono stato addestrato nell'arte di uccidere a mani nude, perché solo così si devono compiere i sacrifici. Yajur ama il sangue, e noi non sprechiamo una sola goccia delle vene della vittima... Ti spezzerò il collo con queste mani, barbaro!"
                 },
                 "origin": {
                     "fr": "Les Mangeurs d’hommes de Zamboula",
                     "en": "Shadows in Zamboula",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Ombre a Zamboula"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5536,7 +5536,7 @@
             "name": {
                 "fr": "Araignée Zamorienne",
                 "en": "Zamorian Spider",
-                "it": "TODO_TRANSLATE"
+                "it": "Ragno Zamoriano"
             },
 
             "colors": ["gray"],
@@ -5564,7 +5564,7 @@
             "name": {
                 "fr": "Manifestation de Yog",
                 "en": "Manifestation of Yog",
-                "it": "TODO_TRANSLATE"
+                "it": "Manifestazione di Yog"
             },
 
             "colors": ["gray"],
@@ -5581,12 +5581,12 @@
                 "text": {
                     "fr": "Les habitants de cette ville ne toléreraient pas qu’il tue leurs concitoyens ! Mais ils se moquent de ce qui peut arriver aux étrangers qui tombent entre ses mains. Conan, tu viens de l’Ouest et tu ne connais pas les secrets de ce vieux pays, mais depuis l’aube des temps, les démons du désert célèbrent la gloire de Yog, le Seigneur des Demeures Vides, par le feu.. le feu qui se nourrit de victimes humaines !",
                     "en": "The people of the city would not suffer him to slay their people, but they care naught for the strangers who fall into his hands. Conan, you are of the West, and know not the secrets of this ancient land. But, since the beginning of happenings, the demons of the desert have worshipped Yog, the Lord of the Empty Abodes, with fire—fire that devours human victims.",
-                    "it": "TODO_TRANSLATE"
+                    "it": "— Gli abitanti della città non lo tollererebbero, se uccidesse uno di loro, ma non si curano degli stranieri che cadono nelle sue mani. Conan, tu vieni dall'occidente e non conosci i segreti di questa terra antica. Ma fin dall'inizio dei tempi, i demoni del deserto adorano Yog, il Signore del Vuoto, con il fuoco... il fuoco che divora vittime umane."
                 },
                 "origin": {
                     "fr": "Les Mangeurs d’hommes de Zamboula",
                     "en": "Shadows in Zamboula",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Ombre a Zamboula"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5608,7 +5608,7 @@
             "name": {
                 "fr": "Conan le Conquérant",
                 "en": "Conan the Conqueror",
-                "it": "TODO_TRANSLATE"
+                "it": "Conan il Conquistatore"
             },
 
             "colors": ["gray"],
@@ -5625,12 +5625,12 @@
                 "text": {
                     "fr": "Que sais-je du raffinement, des dorures, de l’artifice et du mensonge ? Moi, qui suis né dans une terre désolée et ai grandi à ciel ouvert. La langue subtile, la ruse du sophiste ne peuvent rien quand chante la grande épée ; Accourez et venez mourir, chiens - j’étais un homme avant d’être roi. »",
                     "en": "What do I know of cultured ways, the gilt, the craft and the lie? I, who was born in a naked land and bred in the open sky. The subtle tongue, the sophist guile, they fail when the broadswords sing; Rush in and die, dogs—I was a man before I was a king.”",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Che cosa io so dei modi civili, d'oro, inganni,\nMenzogne, io che son nato in una terra spoglia\nE vissi sotto il cielo? L'abilità sottile\nDel parlare sofista fallisce quando canta\nLa gran spada fidata; correte a morte cani\nBastardi, che fui uomo prim'ancora che sire."
                 },
                 "origin": {
                     "fr": "Le Phénix sur l’épée",
                     "en": "The Phoenix on the Sword",
-                    "it": "TODO_TRANSLATE"
+                    "it": "La Fenice sulla Lama"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5650,7 +5650,7 @@
             "name": {
                 "fr": "Terreur Ailée",
                 "en": "Winged One",
-                "it": "TODO_TRANSLATE"
+                "it": "Terrore Alato"
             },
 
             "colors": ["gray"],
@@ -5677,7 +5677,7 @@
             "name": {
                 "fr": "Engeance de Set",
                 "en": "Son of Set",
-                "it": "TODO_TRANSLATE"
+                "it": "Figlio di Set"
             },
 
             "colors": ["gray"],
@@ -5705,7 +5705,7 @@
             "name": {
                 "fr": "Horreur sans nom",
                 "en": "Nameless Horror",
-                "it": "TODO_TRANSLATE"
+                "it": "Orrore senza nome"
             },
 
             "colors": ["gray"],
@@ -5733,7 +5733,7 @@
             "name": {
                 "fr": "Serviteur d’Ahriman",
                 "en": "Servant of Ahriman",
-                "it": "TODO_TRANSLATE"
+                "it": "Servitore di Ahriman"
             },
 
             "colors": ["gray"],
@@ -5760,7 +5760,7 @@
             "name": {
                 "fr": "Fléau de Set",
                 "en": "Scourge of Set",
-                "it": "TODO_TRANSLATE"
+                "it": "Flagello di Set"
             },
 
             "colors": ["gray"],
@@ -5788,7 +5788,7 @@
             "name": {
                 "fr": "Hommes-serpents",
                 "en": "Serpent-Men",
-                "it": "TODO_TRANSLATE"
+                "it": "Uomini Serpente"
             },
 
             "colors": ["gray"],
@@ -5803,12 +5803,12 @@
                 "text": {
                     "fr": "Un homme à tête de serpent ! » murmura Kull. « S’agit-il donc d’un prêtre du dieu serpent ? \n- Oui. Tu dort, ne se doutant de rien. Ces démons peuvent prendre n’importe quelle apparence. Je veux dire qu’ils peuvent, grâce à un charme magique ou quelque chose de ce genre, jeter un voile de sorcellerie autour de leur visage, tel un acteur mettant un masque, de sorte qu’ils prennent l’apparence de qui bon leur semble. »",
                     "en": "A man with the head of a snake!” Kull murmured. “This, then, is a priest of the serpent god?” \n“Aye. Tu sleeps unknowing. These fiends can take any form they will. That is, they can, by a magic charm or the like, fling a web of sorcery about their faces, as an actor dons a mask, so that they resemble anyone they wish to.”",
-                    "it": "TODO_TRANSLATE"
+                    "it": "- Un uomo dalla testa di serpente - mormorò. - Allora era un sacerdote del dio serpente?\n- Sì. Tu dorme, ignaro di tutto. Questi mostri assumono la forma che credono, o meglio riescono, con un incantesimo, coprendosi il volto con una ragnatela magica, un po' come un attore quando mette la maschera, e a riprodurre la fisionomia di chi vogliono."
                 },
                 "origin": {
                     "fr": "Le Royaume des chimères",
                     "en": "The Shadow Kingdom",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Il Regno Fantasma"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5828,7 +5828,7 @@
             "name": {
                 "fr": "Hommes-serpents",
                 "en": "Serpent-Men",
-                "it": "TODO_TRANSLATE"
+                "it": "Uomini Serpente"
             },
 
             "colors": ["green"],
@@ -5843,12 +5843,12 @@
                 "text": {
                     "fr": "Un homme à tête de serpent ! » murmura Kull. « S’agit-il donc d’un prêtre du dieu serpent ? \n- Oui. Tu dort, ne se doutant de rien. Ces démons peuvent prendre n’importe quelle apparence. Je veux dire qu’ils peuvent, grâce à un charme magique ou quelque chose de ce genre, jeter un voile de sorcellerie autour de leur visage, tel un acteur mettant un masque, de sorte qu’ils prennent l’apparence de qui bon leur semble. »",
                     "en": "A man with the head of a snake!” Kull murmured. “This, then, is a priest of the serpent god?” \n“Aye. Tu sleeps unknowing. These fiends can take any form they will. That is, they can, by a magic charm or the like, fling a web of sorcery about their faces, as an actor dons a mask, so that they resemble anyone they wish to.”",
-                    "it": "TODO_TRANSLATE"
+                    "it": "- Un uomo dalla testa di serpente - mormorò. - Allora era un sacerdote del dio serpente?\n- Sì. Tu dorme, ignaro di tutto. Questi mostri assumono la forma che credono, o meglio riescono, con un incantesimo, coprendosi il volto con una ragnatela magica, un po' come un attore quando mette la maschera, e a riprodurre la fisionomia di chi vogliono."
                 },
                 "origin": {
                     "fr": "Le Royaume des chimères",
                     "en": "The Shadow Kingdom",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Il Regno Fantasma"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5868,7 +5868,7 @@
             "name": {
                 "fr": "Thulsa Doom",
                 "en": "Thulsa Doom",
-                "it": "TODO_TRANSLATE"
+                "it": "Thulsa Doom"
             },
 
             "colors": ["gray"],
@@ -5885,12 +5885,12 @@
                 "text": {
                     "fr": "L’être à tête de crâne éclata de rire. « Il y a une éternité de cela, je suis mort comme meurent les hommes ! » se vanta-t-il. « Non, je passerai dans quelque autre sphère d’existence lorsque mon heure sera venue, pas avant. Je ne saigne pas car mes veines sont vides, et je ne sens qu’un léger frisson, qui disparaîtra lorsque la blessure se refermera, ce qu’elle a déjà commencé à faire. Reculez, imbéciles, votre maître s’en va, mais il reviendra. Quand ce jour viendra, vous hurlerez, vous vous ratatinerez et vous mourrez ! Kull, je te salue ! »",
                     "en": "The skull-faced one laughed. “Ages ago I died as men did!” he taunted. “Nay, I shall pass to some other sphere when my time comes, not before. I bleed not, for my veins are empty, and I feel only a slight coldness which shall pass when the wound closes, as it is even now closing. Stand back, fool, your master goes; but he shall come again to you, and you shall scream and shrivel and die in that coming. Kull, I salute you.”",
-                    "it": "TODO_TRANSLATE"
+                    "it": "- Sono morto di morte umana molti secoli fa e passerò a qualche sfera quando verrà la mia ora, non prima - esclamò con disprezzo -\nNon sanguino, perché le mie vene sono vuote e avverto solo un certo freddo, che passerà appena la ferita si richiuderà, cosa che ha già cominciato a fare. Indietro, idiota, il tuo padrone adesso se ne va, ma un giorno tornerà e allora urlerai e ti accartoccerai e morrai! Ti saluto, Kull!"
                 },
                 "origin": {
                     "fr": "Le Chat de Delcardes",
                     "en": "Delcardes Cat",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Il gatto di Delcardes"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -5910,7 +5910,7 @@
             "name": {
                 "fr": "Thulsa Doom",
                 "en": "Thulsa Doom",
-                "it": "TODO_TRANSLATE"
+                "it": "Thulsa Doom"
             },
 
             "colors": ["gray"],
@@ -5924,12 +5924,12 @@
                 "text": {
                     "fr": "L’être à tête de crâne éclata de rire. « Il y a une éternité de cela, je suis mort comme meurent les hommes ! » se vanta-t-il. « Non, je passerai dans quelque autre sphère d’existence lorsque mon heure sera venue, pas avant. Je ne saigne pas car mes veines sont vides, et je ne sens qu’un léger frisson, qui disparaîtra lorsque la blessure se refermera, ce qu’elle a déjà commencé à faire. Reculez, imbéciles, votre maître s’en va, mais il reviendra. Quand ce jour viendra, vous hurlerez, vous vous ratatinerez et vous mourrez ! Kull, je te salue ! »",
                     "en": "The skull-faced one laughed. “Ages ago I died as men did!” he taunted. “Nay, I shall pass to some other sphere when my time comes, not before. I bleed not, for my veins are empty, and I feel only a slight coldness which shall pass when the wound closes, as it is even now closing. Stand back, fool, your master goes; but he shall come again to you, and you shall scream and shrivel and die in that coming. Kull, I salute you.”",
-                    "it": "TODO_TRANSLATE"
+                    "it": "- Sono morto di morte umana molti secoli fa e passerò a qualche sfera quando verrà la mia ora, non prima - esclamò con disprezzo -\nNon sanguino, perché le mie vene sono vuote e avverto solo un certo freddo, che passerà appena la ferita si richiuderà, cosa che ha già cominciato a fare. Indietro, idiota, il tuo padrone adesso se ne va, ma un giorno tornerà e allora urlerai e ti accartoccerai e morrai! Ti saluto, Kull!"
                 },
                 "origin": {
                     "fr": "Le Chat de Delcardes",
                     "en": "Delcardes Cat",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Il gatto di Delcardes"
                 },
                 "author": {
                     "name": "Robert E. Howard"
