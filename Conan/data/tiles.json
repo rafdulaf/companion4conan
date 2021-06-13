@@ -4980,7 +4980,7 @@
             "name": {
                 "fr": "Archers pirates",
                 "en": "Pirate Archers",
-                "it": "Pirati arcieri"
+                "it": "Arcieri Pirati"
             },
 
             "colors": ["gray", "black"],
@@ -5102,7 +5102,7 @@
             "name": {
                 "fr": "Balistes Pirates",
                 "en": "Ballista Pirates",
-                "it": "Baliste Pirata"
+                "it": "Balista Pirata"
             },
 
             "colors": ["gray"],
