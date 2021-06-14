@@ -1257,7 +1257,7 @@
                 "origin": {
                     "fr": "Le Phénix sur l’Epée",
                     "en": "The Phoenix on the Sword",
-                    "it": "La Fenice sulla lama"
+                    "it": "La Fenice sulla Lama"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -1828,7 +1828,7 @@
             "name": {
                 "fr": "Othryades",
                 "en": "Othryades",
-                "it": "Othryades"
+                "it": "Otriade"
             },
             "class": [{"type": "warrior"}],
 
@@ -2634,12 +2634,12 @@
                 "text": {
                     "fr": "Que sais-je du raffinement, des dorures, de l’artifice et du mensonge ? Moi, qui suis né dans une terre désolée et ai grandi à ciel ouvert. La langue subtile, la ruse du sophiste ne peuvent rien quand chante la grande épée ; Accourez et venez mourir, chiens - j’étais un homme avant d’être roi. »",
                     "en": "What do I know of cultured ways, the gilt, the craft and the lie? I, who was born in a naked land and bred in the open sky. The subtle tongue, the sophist guile, they fail when the broadswords sing; Rush in and die, dogs—I was a man before I was a king.”",
-                    "it": "TODO_TRANSLATE"
+                    "it": "Che cosa io so dei modi civili, d'oro, inganni,\nMenzogne, io che son nato in una terra spoglia\nE vissi sotto il cielo? L'abilità sottile\nDel parlare sofista fallisce quando canta\nLa gran spada fidata; correte a morte cani\nBastardi, che fui uomo prim'ancora che sire."
                 },
                 "origin": {
                     "fr": "Le Phénix sur l’épée",
                     "en": "The Phoenix on the Sword",
-                    "it": "TODO_TRANSLATE"
+                    "it": "La Fenice sulla Lama"
                 },
                 "author": {
                     "name": "Robert E. Howard"
@@ -2678,7 +2678,7 @@
             "name": {
                 "fr": "Roi Kull",
                 "en": "King Kull",
-                "it": "TODO_TRANSLATE"
+                "it": "Re Kull"
             },
             "class": [{ "type": "warrior" }],
 

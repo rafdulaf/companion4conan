@@ -2753,12 +2753,12 @@
             "title": {
                 "fr": "Déchirer le Voile",
                 "en": "Rending the Veil",
-                "it": "TODO_TRANSLATE"
+                "it": "Lacerare il Velo"
             },
             "text": {
                 "fr": "Choisissez un ennemi vers lequel il n’existe pas de ligne de vue. Considérez qu’il existe désormais une ligne de vue entre la zone de cet ennemi et le lanceur de sort, ou une unité alliée dans la ligne de vue du lanceur de sort, pour une action.",
                 "en": "Choose an enemy that is not in line of sight.\n\nThat enemy’s area is considered in line of sight of the caster, or an allied unit in the caster’s line of sight, for one action.",
-                "it": "TODO_TRANSLATE"
+                "it": "Scegliete un nemico che non sia in linea di vista. Adesso per una sola azione, o il mago, o un'unità alleata in linea di vista con il mago, è in grado di stabilire una linea di vista verso l'area occupata dal nemico."
             },
             "clarification": null,
 
@@ -2794,13 +2794,13 @@
             "title": {
                 "fr": "Tourbillon",
                 "en": "Whirlwind",
-                "it": "TODO_TRANSLATE"
+                "it": "Vortice"
             },
             "text": {
-                "fr": "Attaquez une zone en ligne de vue, lancez {dice_orange}{dice_orange} et ajoutez un {dice_yellow} pour chaque unité dans cette zone. Vous pouvez répartir les résultats de l’attaque entre les cibles de votre choix dans la zone. Celles-ci ne bénéfi cient pas de Sous Protection. Les cibles choisies peuvent se défendre contre cette attaque",
+                "fr": "Attaquez une zone en ligne de vue, lancez {dice_orange}{dice_orange} et ajoutez un {dice_yellow} pour chaque unité dans cette zone. Vous pouvez répartir les résultats de l’attaque entre les cibles de votre choix dans la zone. Celles-ci ne bénéfi cient pas de Sous Protection. Les cibles choisies peuvent se défendre contre cette attaque.",
                 "en": "Attack an area in your line of sight, roll {dice_orange}{dice_orange} and add one {dice_yellow} for each unit in that area. You may assign the attack results among any number of targets in the area that do not benefit from Protected. The chosen targets may defend against this attack.",
-                "it": "TODO_TRANSLATE"
-            },
+                "it": "Attacca un'area in linea di vista, lancia {dice_orange}{dice_orange} e aggiungi un {dice_yellow} per ogni unità in quell'area. Puoi assegnare liberamente i risultati dell'attacco tra i bersagli presenti nell'area. I bersagli scelti non beneficiano dell'abilità Protetto e non possono difendersi da questo attacco."
+            }, 
             "clarification": null,
 
             "cost": "3",
@@ -2835,12 +2835,12 @@
             "title": {
                 "fr": "Châtiment d’Ymir",
                 "en": "Ymir’s Retribution",
-                "it": "TODO_TRANSLATE"
+                "it": "Punizione di Ymir"
             },
             "text": {
                 "fr": "Attaquez un personnage dans votre ligne de vue et lancez {dice_red}{dice_red}. Si la puissance de l’attaque est supérieure à la puissance de la défense, le défenseur subit autant de dégâts que la différence.",
                 "en": "Attack a character in your line of sight, roll {dice_red}{dice_red}. If the attack power is greater than the defense power, the defender suffers damage equal to the difference.",
-                "it": "TODO_TRANSLATE"
+                "it": "Attacca un personaggio in linea di vista e lancia {dice_red}{dice_red}. Se la potenza dell'attacco è maggiore della potenza della difesa, il difensore subisce un ammontare di danni pari alla differenza."
             },
             "clarification": null,
 
@@ -2876,12 +2876,12 @@
             "title": {
                 "fr": "Invocation de Démon",
                 "en": "Summon Demon",
-                "it": "TODO_TRANSLATE"
+                "it": "Evoca Demone"
             },
             "text": {
                 "fr": "Placez un Démon (indiqué dans le scénario) dans la zone du lanceur de sort. Le Démon disparaît à la fin du tour, à moins que le lanceur de sort ne laisse les gemmes sur cette carte de sort. Le lanceur de sort peut déplacer les gemmes en zone de Fatigue à tout moment pour renvoyer le démon. Le lanceur de sort peut contrôler les tuiles ainsi invoquées comme s’il avait la compétence Commandement",
                 "en": "Place a Demon (as specified in the scenario) in the caster’s area. The Demon disappears at the end of the round unless the caster leaves the gems on this spell card. The caster may move the gems to their Fatigue zone at any time to dismiss the demon. The caster may control tiles summoned in this manner as if they had the Leadership skill.",
-                "it": "TODO_TRANSLATE"
+                "it": "Piazza un Demone (indicato nello scenario) nell'area del mago. Il Demone sparirà alla fine del turno a meno che il mago non sceglie di lasciare su questa carta le sue gemme. Il mago può spostare in qualsiasi momento le gemme di questo incantesimo nella sua Fatica per far sparire il demone. Il mago può controllare le tessere così evocate come se avesse l'abilità Comando."
             },
             "clarification": null,
 
@@ -2917,12 +2917,12 @@
             "title": {
                 "fr": "Faim de Yog",
                 "en": "Yog’s Hunger",
-                "it": "TODO_TRANSLATE"
+                "it": "Fame di Yog"
             },
             "text": {
                 "fr": "Attaquez un personnage en ligne de vue et lancez {dice_orange}.\nCe personnage ne peut pas se défendre contre cette attaque et subit des dégâts correspondants à la puissance de l’attaque.",
                 "en": "Attack a character in your line of sight; roll {dice_orange}.\n\nThat character cannot defend against this attack, and suffers damage equal to the attack power.",
-                "it": "TODO_TRANSLATE"
+                "it": "Attacca un personaggio in linea di vista e lancia {dice_orange}.\nQuesto personaggio non può difendersi contro questo attacco e subisce l'ammontare di danni pari alla potenza dell'attacco."
             },
             "clarification": null,
 
