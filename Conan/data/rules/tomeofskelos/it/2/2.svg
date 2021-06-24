@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg viewBox="0 0 907 1284" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<clipPath id="c0_2"><path d="M81.3,274.2v-.4h38.8V236H42.4v38.2ZM797.1,100.5V48.1H91.1v52.4ZM0,1284.4V0H907.7V1284.4Z"/></clipPath>
+<clipPath id="c1_2"><path d="M91.1,100.6V48.2H797v52.4Z"/></clipPath>
+<clipPath id="c2_2"><path d="M354.4,163.2V125h38.9v38.2Z"/></clipPath>
+<clipPath id="c3_2"><path d="M393.3,162.8V125h38.8v37.8Z"/></clipPath>
+<clipPath id="c4_2"><path d="M0,1284.4V0H907.6V1284.4Z"/></clipPath>
+<style type="text/css"><![CDATA[
+.g0_2{
+fill: none;
+stroke: #231916;
+stroke-width: 0.862;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g1_2{
+fill: none;
+stroke: #231916;
+stroke-width: 0.697;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_2{
+fill: none;
+stroke: #231916;
+stroke-width: 0.598;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_2{
+fill: none;
+stroke: #231916;
+stroke-width: 1.293;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_2{
+fill: none;
+stroke: #231916;
+stroke-width: 0.799;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_2{
+fill: none;
+stroke: #231916;
+stroke-width: 0.721;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_2{
+fill: none;
+stroke: #231916;
+stroke-width: 0.814;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_2{
+fill: none;
+stroke: #231916;
+stroke-width: 0.845;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g8_2{
+fill: none;
+stroke: #231916;
+stroke-width: 0.747;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g9_2{
+fill: none;
+stroke: #231916;
+stroke-width: 0.756;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.ga_2{
+fill: none;
+stroke: #231916;
+stroke-width: 0.775;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.gb_2{
+fill: none;
+stroke: #231916;
+stroke-width: 0.465;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.gc_2{
+fill: #231916;
+}
+.gd_2{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 1.909;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.ge_2{
+fill: none;
+stroke: #000000;
+stroke-width: 0.381;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+]]></style>
+</defs>
+<image clip-path="url(#c0_2)" preserveAspectRatio="none" x="0" y="-22" width="930" height="1329" xlink:href="img/1.jpg"/>
+<image clip-path="url(#c1_2)" preserveAspectRatio="none" x="91" y="48" width="706" height="53" xlink:href="img/2.jpg"/>
+<image clip-path="url(#c2_2)" preserveAspectRatio="none" x="354" y="125" width="40" height="39" xlink:href="img/3.jpg"/>
+<image clip-path="url(#c3_2)" preserveAspectRatio="none" x="393" y="125" width="39" height="38" xlink:href="img/4.jpg"/>
+<path d="M42.5,1042.9H179.1" class="g0_2"/>
+<path d="M42.4,819.8H85.3" class="g1_2"/>
+<path d="M42.3,744.5H79.2" class="g2_2"/>
+<path d="M42.7,628.2H87.1" class="g3_2"/>
+<path d="M42.4,554.2H155" class="g4_2"/>
+<path d="M477.6,1067.8h36.2" class="g5_2"/>
+<path d="M477.6,927.2H611.4" class="g6_2"/>
+<path d="M477.6,819.5h39.6" class="g7_2"/>
+<path d="M477.6,761.4H586.4" class="g8_2"/>
+<path d="M477.6,670.2h88.6" class="g9_2"/>
+<path d="M477.6,520.9h73" class="ga_2"/>
+<path d="M477.6,297.7h69.6" class="gb_2"/>
+<path d="M477.6,140.9h61.9v-.7H477.6v.7Z" class="gc_2"/>
+<g clip-path="url(#c4_2)">
+<path d="M-10,-.8H-32.9m950.6,0h22.9M-10,1285.3H-32.9m950.6,0h22.9M-.8,-10V-32.9m0,1327.4v22.9M908.5,-10V-32.9m0,1327.4v22.9" class="gd_2"/>
+<path d="M-10,-.8H-32.9m950.6,0h22.9M-10,1285.3H-32.9m950.6,0h22.9M-.8,-10V-32.9m0,1327.4v22.9M908.5,-10V-32.9m0,1327.4v22.9" class="ge_2"/>
+</g>
+</svg>
